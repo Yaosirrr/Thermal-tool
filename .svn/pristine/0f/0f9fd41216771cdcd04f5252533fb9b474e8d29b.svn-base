@@ -1,0 +1,2640 @@
+Inlet_Temp       | 31 degrees C      | ok
+Outlet_Temp      | 43 degrees C      | ok
+CPU0_DTS         | 54 degrees C      | ok
+CPU1_DTS         | 49 degrees C      | ok
+CPU2_DTS         | 55 degrees C      | ok
+CPU3_DTS         | 54 degrees C      | ok
+CPU0_DDR_DIMM_T  | 43 degrees C      | ok
+CPU1_DDR_DIMM_T  | 40 degrees C      | ok
+CPU2_DDR_DIMM_T  | 39 degrees C      | ok
+CPU3_DDR_DIMM_T  | 43 degrees C      | ok
+CPU0_Vcore_T     | 48 degrees C      | ok
+CPU1_Vcore_T     | 49 degrees C      | ok
+CPU2_Vcore_T     | 48 degrees C      | ok
+CPU3_Vcore_T     | 47 degrees C      | ok
+PCH_Temp         | 48 degrees C      | ok
+OCPNIC_Temp      | 63 degrees C      | ok
+OCPNIC_OPT_T     | 49 degrees C      | ok
+PSU0_Inlet_T     | 39 degrees C      | ok
+PSU1_Inlet_T     | 40 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 435 Watts         | ok
+FAN_Power        | 30 Watts          | ok
+CPU_Power        | 245 Watts         | ok
+Memory_Power     | 90 Watts          | ok
+PSU0_PIN         | 246 Watts         | ok
+PSU1_PIN         | 228 Watts         | ok
+PSU0_POUT        | 222 Watts         | ok
+PSU1_POUT        | 210 Watts         | ok
+FAN0_F_Speed     | 16359 RPM         | ok
+FAN0_R_Speed     | 14022 RPM         | ok
+FAN1_F_Speed     | 15990 RPM         | ok
+FAN1_R_Speed     | 13407 RPM         | ok
+FAN2_F_Speed     | 11931 RPM         | ok
+FAN2_R_Speed     | 10086 RPM         | ok
+FAN3_F_Speed     | 11562 RPM         | ok
+FAN3_R_Speed     | 10086 RPM         | ok
+FAN4_F_Speed     | 11685 RPM         | ok
+FAN4_R_Speed     | 9963 RPM          | ok
+FAN5_F_Speed     | 11685 RPM         | ok
+FAN5_R_Speed     | 10086 RPM         | ok
+FAN6_F_Speed     | 11808 RPM         | ok
+FAN6_R_Speed     | 10086 RPM         | ok
+FAN7_F_Speed     | 11685 RPM         | ok
+FAN7_R_Speed     | 9963 RPM          | ok
+JBOG_Inlet_Temp  | 30 degrees C      | ok
+PCIe0_Temp       | 55 degrees C      | ok
+PCIe1_Temp       | 52 degrees C      | ok
+PCIe2_Temp       | 52 degrees C      | ok
+PCIe3_Temp       | 51 degrees C      | ok
+PCIe4_Temp       | 53 degrees C      | ok
+PCIe5_Temp       | 55 degrees C      | ok
+PCIe6_Temp       | 55 degrees C      | ok
+PCIe7_Temp       | 51 degrees C      | ok
+PCIe8_Temp       | 52 degrees C      | ok
+PCIe9_Temp       | 53 degrees C      | ok
+PCIe10_Temp      | 52 degrees C      | ok
+PCIe11_Temp      | 55 degrees C      | ok
+PCIe12_Temp      | 54 degrees C      | ok
+PCIe13_Temp      | 54 degrees C      | ok
+PCIe14_Temp      | 53 degrees C      | ok
+PCIe15_Temp      | 51 degrees C      | ok
+FAN8_F_Speed     | 5358 RPM          | ok
+FAN8_R_Speed     | 4845 RPM          | ok
+FAN9_F_Speed     | 5358 RPM          | ok
+FAN9_R_Speed     | 4845 RPM          | ok
+FAN10_F_Speed    | 5358 RPM          | ok
+FAN10_R_Speed    | 4845 RPM          | ok
+FAN11_F_Speed    | 5358 RPM          | ok
+FAN11_R_Speed    | 4845 RPM          | ok
+FAN12_F_Speed    | 5358 RPM          | ok
+FAN12_R_Speed    | 4845 RPM          | ok
+PSU2_PIN         | 234 Watts         | ok
+PSU3_PIN         | 246 Watts         | ok
+PSU4_PIN         | 234 Watts         | ok
+PSU5_PIN         | 222 Watts         | ok
+PSU2_POUT        | 198 Watts         | ok
+PSU3_POUT        | 210 Watts         | ok
+PSU4_POUT        | 198 Watts         | ok
+PSU5_POUT        | 198 Watts         | ok
+Inlet_Temp       | 31 degrees C      | ok
+Outlet_Temp      | 44 degrees C      | ok
+CPU0_DTS         | 50 degrees C      | ok
+CPU1_DTS         | 53 degrees C      | ok
+CPU2_DTS         | 52 degrees C      | ok
+CPU3_DTS         | 53 degrees C      | ok
+CPU0_DDR_DIMM_T  | 45 degrees C      | ok
+CPU1_DDR_DIMM_T  | 40 degrees C      | ok
+CPU2_DDR_DIMM_T  | 40 degrees C      | ok
+CPU3_DDR_DIMM_T  | 44 degrees C      | ok
+CPU0_Vcore_T     | 48 degrees C      | ok
+CPU1_Vcore_T     | 47 degrees C      | ok
+CPU2_Vcore_T     | 48 degrees C      | ok
+CPU3_Vcore_T     | 46 degrees C      | ok
+PCH_Temp         | 48 degrees C      | ok
+OCPNIC_Temp      | 66 degrees C      | ok
+OCPNIC_OPT_T     | 51 degrees C      | ok
+PSU0_Inlet_T     | 39 degrees C      | ok
+PSU1_Inlet_T     | 40 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 435 Watts         | ok
+FAN_Power        | 22 Watts          | ok
+CPU_Power        | 250 Watts         | ok
+Memory_Power     | 88 Watts          | ok
+PSU0_PIN         | 246 Watts         | ok
+PSU1_PIN         | 234 Watts         | ok
+PSU0_POUT        | 222 Watts         | ok
+PSU1_POUT        | 210 Watts         | ok
+FAN0_F_Speed     | 11070 RPM         | ok
+FAN0_R_Speed     | 9594 RPM          | ok
+FAN1_F_Speed     | 11193 RPM         | ok
+FAN1_R_Speed     | 9594 RPM          | ok
+FAN2_F_Speed     | 11316 RPM         | ok
+FAN2_R_Speed     | 9717 RPM          | ok
+FAN3_F_Speed     | 11070 RPM         | ok
+FAN3_R_Speed     | 9594 RPM          | ok
+FAN4_F_Speed     | 11070 RPM         | ok
+FAN4_R_Speed     | 9594 RPM          | ok
+FAN5_F_Speed     | 11316 RPM         | ok
+FAN5_R_Speed     | 9594 RPM          | ok
+FAN6_F_Speed     | 11193 RPM         | ok
+FAN6_R_Speed     | 9594 RPM          | ok
+FAN7_F_Speed     | 11070 RPM         | ok
+FAN7_R_Speed     | 9594 RPM          | ok
+JBOG_Inlet_Temp  | 32 degrees C      | ok
+PCIe0_Temp       | 52 degrees C      | ok
+PCIe1_Temp       | 49 degrees C      | ok
+PCIe2_Temp       | 49 degrees C      | ok
+PCIe3_Temp       | 48 degrees C      | ok
+PCIe4_Temp       | 50 degrees C      | ok
+PCIe5_Temp       | 52 degrees C      | ok
+PCIe6_Temp       | 51 degrees C      | ok
+PCIe7_Temp       | 48 degrees C      | ok
+PCIe8_Temp       | 49 degrees C      | ok
+PCIe9_Temp       | 50 degrees C      | ok
+PCIe10_Temp      | 49 degrees C      | ok
+PCIe11_Temp      | 51 degrees C      | ok
+PCIe12_Temp      | 52 degrees C      | ok
+PCIe13_Temp      | 51 degrees C      | ok
+PCIe14_Temp      | 51 degrees C      | ok
+PCIe15_Temp      | 48 degrees C      | ok
+FAN8_F_Speed     | 12312 RPM         | ok
+FAN8_R_Speed     | 11514 RPM         | ok
+FAN9_F_Speed     | 12540 RPM         | ok
+FAN9_R_Speed     | 11514 RPM         | ok
+FAN10_F_Speed    | 14364 RPM         | ok
+FAN10_R_Speed    | 13452 RPM         | ok
+FAN11_F_Speed    | 14364 RPM         | ok
+FAN11_R_Speed    | 13452 RPM         | ok
+FAN12_F_Speed    | 14364 RPM         | ok
+FAN12_R_Speed    | 13452 RPM         | ok
+PSU2_PIN         | 288 Watts         | ok
+PSU3_PIN         | 312 Watts         | ok
+PSU4_PIN         | 288 Watts         | ok
+PSU5_PIN         | 288 Watts         | ok
+PSU2_POUT        | 246 Watts         | ok
+PSU3_POUT        | 258 Watts         | ok
+PSU4_POUT        | 246 Watts         | ok
+PSU5_POUT        | 246 Watts         | ok
+Inlet_Temp       | 32 degrees C      | ok
+Outlet_Temp      | 45 degrees C      | ok
+CPU0_DTS         | 14 degrees C      | ok
+CPU1_DTS         | 13 degrees C      | ok
+CPU2_DTS         | 9 degrees C       | ok
+CPU3_DTS         | 12 degrees C      | ok
+CPU0_DDR_DIMM_T  | 47 degrees C      | ok
+CPU1_DDR_DIMM_T  | 41 degrees C      | ok
+CPU2_DDR_DIMM_T  | 41 degrees C      | ok
+CPU3_DDR_DIMM_T  | 46 degrees C      | ok
+CPU0_Vcore_T     | 67 degrees C      | ok
+CPU1_Vcore_T     | 67 degrees C      | ok
+CPU2_Vcore_T     | 69 degrees C      | ok
+CPU3_Vcore_T     | 68 degrees C      | ok
+PCH_Temp         | 48 degrees C      | ok
+OCPNIC_Temp      | 60 degrees C      | ok
+OCPNIC_OPT_T     | 49 degrees C      | ok
+PSU0_Inlet_T     | 41 degrees C      | ok
+PSU1_Inlet_T     | 41 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 1815 Watts        | ok
+FAN_Power        | 322 Watts         | ok
+CPU_Power        | 1060 Watts        | ok
+Memory_Power     | 176 Watts         | ok
+PSU0_PIN         | 996 Watts         | ok
+PSU1_PIN         | 948 Watts         | ok
+PSU0_POUT        | 924 Watts         | ok
+PSU1_POUT        | 876 Watts         | ok
+FAN0_F_Speed     | 31365 RPM         | ok
+FAN0_R_Speed     | 27798 RPM         | ok
+FAN1_F_Speed     | 31365 RPM         | ok
+FAN1_R_Speed     | 27921 RPM         | ok
+FAN2_F_Speed     | 31365 RPM         | ok
+FAN2_R_Speed     | 27798 RPM         | ok
+FAN3_F_Speed     | 31365 RPM         | ok
+FAN3_R_Speed     | 27675 RPM         | ok
+FAN4_F_Speed     | 31365 RPM         | ok
+FAN4_R_Speed     | 27798 RPM         | ok
+FAN5_F_Speed     | 31365 RPM         | ok
+FAN5_R_Speed     | 27552 RPM         | ok
+FAN6_F_Speed     | 31365 RPM         | ok
+FAN6_R_Speed     | 27552 RPM         | ok
+FAN7_F_Speed     | 31365 RPM         | ok
+FAN7_R_Speed     | 27798 RPM         | ok
+JBOG_Inlet_Temp  | 32 degrees C      | ok
+PCIe0_Temp       | 48 degrees C      | ok
+PCIe1_Temp       | 45 degrees C      | ok
+PCIe2_Temp       | 45 degrees C      | ok
+PCIe3_Temp       | 45 degrees C      | ok
+PCIe4_Temp       | 46 degrees C      | ok
+PCIe5_Temp       | 47 degrees C      | ok
+PCIe6_Temp       | 47 degrees C      | ok
+PCIe7_Temp       | 45 degrees C      | ok
+PCIe8_Temp       | 45 degrees C      | ok
+PCIe9_Temp       | 47 degrees C      | ok
+PCIe10_Temp      | 46 degrees C      | ok
+PCIe11_Temp      | 47 degrees C      | ok
+PCIe12_Temp      | 47 degrees C      | ok
+PCIe13_Temp      | 47 degrees C      | ok
+PCIe14_Temp      | 46 degrees C      | ok
+PCIe15_Temp      | 44 degrees C      | ok
+FAN8_F_Speed     | 14364 RPM         | ok
+FAN8_R_Speed     | 13566 RPM         | ok
+FAN9_F_Speed     | 14364 RPM         | ok
+FAN9_R_Speed     | 13851 RPM         | ok
+FAN10_F_Speed    | 14364 RPM         | ok
+FAN10_R_Speed    | 13851 RPM         | ok
+FAN11_F_Speed    | 14364 RPM         | ok
+FAN11_R_Speed    | 13851 RPM         | ok
+FAN12_F_Speed    | 14364 RPM         | ok
+FAN12_R_Speed    | 13851 RPM         | ok
+PSU2_PIN         | 300 Watts         | ok
+PSU3_PIN         | 324 Watts         | ok
+PSU4_PIN         | 300 Watts         | ok
+PSU5_PIN         | 300 Watts         | ok
+PSU2_POUT        | 258 Watts         | ok
+PSU3_POUT        | 276 Watts         | ok
+PSU4_POUT        | 258 Watts         | ok
+PSU5_POUT        | 258 Watts         | ok
+Inlet_Temp       | 32 degrees C      | ok
+Outlet_Temp      | 46 degrees C      | ok
+CPU0_DTS         | 14 degrees C      | ok
+CPU1_DTS         | 14 degrees C      | ok
+CPU2_DTS         | 10 degrees C      | ok
+CPU3_DTS         | 13 degrees C      | ok
+CPU0_DDR_DIMM_T  | 48 degrees C      | ok
+CPU1_DDR_DIMM_T  | 42 degrees C      | ok
+CPU2_DDR_DIMM_T  | 42 degrees C      | ok
+CPU3_DDR_DIMM_T  | 47 degrees C      | ok
+CPU0_Vcore_T     | 70 degrees C      | ok
+CPU1_Vcore_T     | 69 degrees C      | ok
+CPU2_Vcore_T     | 71 degrees C      | ok
+CPU3_Vcore_T     | 71 degrees C      | ok
+PCH_Temp         | 50 degrees C      | ok
+OCPNIC_Temp      | 60 degrees C      | ok
+OCPNIC_OPT_T     | 50 degrees C      | ok
+PSU0_Inlet_T     | 41 degrees C      | ok
+PSU1_Inlet_T     | 41 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 960 Watts         | ok
+FAN_Power        | 322 Watts         | ok
+CPU_Power        | 445 Watts         | ok
+Memory_Power     | 122 Watts         | ok
+PSU0_PIN         | 444 Watts         | ok
+PSU1_PIN         | 426 Watts         | ok
+PSU0_POUT        | 402 Watts         | ok
+PSU1_POUT        | 372 Watts         | ok
+FAN0_F_Speed     | 31365 RPM         | ok
+FAN0_R_Speed     | 28044 RPM         | ok
+FAN1_F_Speed     | 31365 RPM         | ok
+FAN1_R_Speed     | 27921 RPM         | ok
+FAN2_F_Speed     | 31365 RPM         | ok
+FAN2_R_Speed     | 27306 RPM         | ok
+FAN3_F_Speed     | 31365 RPM         | ok
+FAN3_R_Speed     | 27306 RPM         | ok
+FAN4_F_Speed     | 31365 RPM         | ok
+FAN4_R_Speed     | 27306 RPM         | ok
+FAN5_F_Speed     | 31365 RPM         | ok
+FAN5_R_Speed     | 27675 RPM         | ok
+FAN6_F_Speed     | 31365 RPM         | ok
+FAN6_R_Speed     | 27675 RPM         | ok
+FAN7_F_Speed     | 31365 RPM         | ok
+FAN7_R_Speed     | 28044 RPM         | ok
+JBOG_Inlet_Temp  | 33 degrees C      | ok
+PCIe0_Temp       | 49 degrees C      | ok
+PCIe1_Temp       | 46 degrees C      | ok
+PCIe2_Temp       | 46 degrees C      | ok
+PCIe3_Temp       | 46 degrees C      | ok
+PCIe4_Temp       | 47 degrees C      | ok
+PCIe5_Temp       | 48 degrees C      | ok
+PCIe6_Temp       | 48 degrees C      | ok
+PCIe7_Temp       | 46 degrees C      | ok
+PCIe8_Temp       | 46 degrees C      | ok
+PCIe9_Temp       | 47 degrees C      | ok
+PCIe10_Temp      | 47 degrees C      | ok
+PCIe11_Temp      | 48 degrees C      | ok
+PCIe12_Temp      | 48 degrees C      | ok
+PCIe13_Temp      | 48 degrees C      | ok
+PCIe14_Temp      | 47 degrees C      | ok
+PCIe15_Temp      | 45 degrees C      | ok
+FAN8_F_Speed     | 10317 RPM         | ok
+FAN8_R_Speed     | 9747 RPM          | ok
+FAN9_F_Speed     | 10317 RPM         | ok
+FAN9_R_Speed     | 9747 RPM          | ok
+FAN10_F_Speed    | 10260 RPM         | ok
+FAN10_R_Speed    | 9747 RPM          | ok
+FAN11_F_Speed    | 10260 RPM         | ok
+FAN11_R_Speed    | 9576 RPM          | ok
+FAN12_F_Speed    | 10089 RPM         | ok
+FAN12_R_Speed    | 9405 RPM          | ok
+PSU2_PIN         | 246 Watts         | ok
+PSU3_PIN         | 258 Watts         | ok
+PSU4_PIN         | 246 Watts         | ok
+PSU5_PIN         | 246 Watts         | ok
+PSU2_POUT        | 210 Watts         | ok
+PSU3_POUT        | 222 Watts         | ok
+PSU4_POUT        | 210 Watts         | ok
+PSU5_POUT        | 210 Watts         | ok
+Inlet_Temp       | 32 degrees C      | ok
+Outlet_Temp      | 45 degrees C      | ok
+CPU0_DTS         | 52 degrees C      | ok
+CPU1_DTS         | 50 degrees C      | ok
+CPU2_DTS         | 52 degrees C      | ok
+CPU3_DTS         | 53 degrees C      | ok
+CPU0_DDR_DIMM_T  | 44 degrees C      | ok
+CPU1_DDR_DIMM_T  | 40 degrees C      | ok
+CPU2_DDR_DIMM_T  | 40 degrees C      | ok
+CPU3_DDR_DIMM_T  | 42 degrees C      | ok
+CPU0_Vcore_T     | 53 degrees C      | ok
+CPU1_Vcore_T     | 53 degrees C      | ok
+CPU2_Vcore_T     | 54 degrees C      | ok
+CPU3_Vcore_T     | 53 degrees C      | ok
+PCH_Temp         | 48 degrees C      | ok
+OCPNIC_Temp      | 60 degrees C      | ok
+OCPNIC_OPT_T     | 49 degrees C      | ok
+PSU0_Inlet_T     | 40 degrees C      | ok
+PSU1_Inlet_T     | 41 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 540 Watts         | ok
+FAN_Power        | 124 Watts         | ok
+CPU_Power        | 250 Watts         | ok
+Memory_Power     | 90 Watts          | ok
+PSU0_PIN         | 300 Watts         | ok
+PSU1_PIN         | 282 Watts         | ok
+PSU0_POUT        | 270 Watts         | ok
+PSU1_POUT        | 258 Watts         | ok
+FAN0_F_Speed     | 26937 RPM         | ok
+FAN0_R_Speed     | 23124 RPM         | ok
+FAN1_F_Speed     | 27060 RPM         | ok
+FAN1_R_Speed     | 23247 RPM         | ok
+FAN2_F_Speed     | 22263 RPM         | ok
+FAN2_R_Speed     | 19065 RPM         | ok
+FAN3_F_Speed     | 22386 RPM         | ok
+FAN3_R_Speed     | 19188 RPM         | ok
+FAN4_F_Speed     | 22140 RPM         | ok
+FAN4_R_Speed     | 18819 RPM         | ok
+FAN5_F_Speed     | 22140 RPM         | ok
+FAN5_R_Speed     | 19065 RPM         | ok
+FAN6_F_Speed     | 22263 RPM         | ok
+FAN6_R_Speed     | 18819 RPM         | ok
+FAN7_F_Speed     | 22017 RPM         | ok
+FAN7_R_Speed     | 19065 RPM         | ok
+JBOG_Inlet_Temp  | 31 degrees C      | ok
+PCIe0_Temp       | 51 degrees C      | ok
+PCIe1_Temp       | 49 degrees C      | ok
+PCIe2_Temp       | 48 degrees C      | ok
+PCIe3_Temp       | 48 degrees C      | ok
+PCIe4_Temp       | 49 degrees C      | ok
+PCIe5_Temp       | 51 degrees C      | ok
+PCIe6_Temp       | 50 degrees C      | ok
+PCIe7_Temp       | 47 degrees C      | ok
+PCIe8_Temp       | 49 degrees C      | ok
+PCIe9_Temp       | 49 degrees C      | ok
+PCIe10_Temp      | 49 degrees C      | ok
+PCIe11_Temp      | 50 degrees C      | ok
+PCIe12_Temp      | 50 degrees C      | ok
+PCIe13_Temp      | 50 degrees C      | ok
+PCIe14_Temp      | 49 degrees C      | ok
+PCIe15_Temp      | 48 degrees C      | ok
+FAN8_F_Speed     | 7182 RPM          | ok
+FAN8_R_Speed     | 6669 RPM          | ok
+FAN9_F_Speed     | 6954 RPM          | ok
+FAN9_R_Speed     | 6441 RPM          | ok
+FAN10_F_Speed    | 7182 RPM          | ok
+FAN10_R_Speed    | 6669 RPM          | ok
+FAN11_F_Speed    | 6498 RPM          | ok
+FAN11_R_Speed    | 5985 RPM          | ok
+FAN12_F_Speed    | 6384 RPM          | ok
+FAN12_R_Speed    | 5871 RPM          | ok
+PSU2_PIN         | 222 Watts         | ok
+PSU3_PIN         | 246 Watts         | ok
+PSU4_PIN         | 234 Watts         | ok
+PSU5_PIN         | 222 Watts         | ok
+PSU2_POUT        | 198 Watts         | ok
+PSU3_POUT        | 210 Watts         | ok
+PSU4_POUT        | 198 Watts         | ok
+PSU5_POUT        | 180 Watts         | ok
+Inlet_Temp       | 31 degrees C      | ok
+Outlet_Temp      | 44 degrees C      | ok
+CPU0_DTS         | 54 degrees C      | ok
+CPU1_DTS         | 52 degrees C      | ok
+CPU2_DTS         | 54 degrees C      | ok
+CPU3_DTS         | 54 degrees C      | ok
+CPU0_DDR_DIMM_T  | 43 degrees C      | ok
+CPU1_DDR_DIMM_T  | 40 degrees C      | ok
+CPU2_DDR_DIMM_T  | 39 degrees C      | ok
+CPU3_DDR_DIMM_T  | 42 degrees C      | ok
+CPU0_Vcore_T     | 49 degrees C      | ok
+CPU1_Vcore_T     | 49 degrees C      | ok
+CPU2_Vcore_T     | 50 degrees C      | ok
+CPU3_Vcore_T     | 49 degrees C      | ok
+PCH_Temp         | 48 degrees C      | ok
+OCPNIC_Temp      | 62 degrees C      | ok
+OCPNIC_OPT_T     | 49 degrees C      | ok
+PSU0_Inlet_T     | 39 degrees C      | ok
+PSU1_Inlet_T     | 40 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 450 Watts         | ok
+FAN_Power        | 38 Watts          | ok
+CPU_Power        | 250 Watts         | ok
+Memory_Power     | 90 Watts          | ok
+PSU0_PIN         | 252 Watts         | ok
+PSU1_PIN         | 240 Watts         | ok
+PSU0_POUT        | 228 Watts         | ok
+PSU1_POUT        | 222 Watts         | ok
+FAN0_F_Speed     | 19188 RPM         | ok
+FAN0_R_Speed     | 16482 RPM         | ok
+FAN1_F_Speed     | 19311 RPM         | ok
+FAN1_R_Speed     | 16359 RPM         | ok
+FAN2_F_Speed     | 12792 RPM         | ok
+FAN2_R_Speed     | 10947 RPM         | ok
+FAN3_F_Speed     | 12669 RPM         | ok
+FAN3_R_Speed     | 10947 RPM         | ok
+FAN4_F_Speed     | 12792 RPM         | ok
+FAN4_R_Speed     | 10947 RPM         | ok
+FAN5_F_Speed     | 12792 RPM         | ok
+FAN5_R_Speed     | 10947 RPM         | ok
+FAN6_F_Speed     | 12792 RPM         | ok
+FAN6_R_Speed     | 10947 RPM         | ok
+FAN7_F_Speed     | 12669 RPM         | ok
+FAN7_R_Speed     | 10947 RPM         | ok
+JBOG_Inlet_Temp  | 30 degrees C      | ok
+PCIe0_Temp       | 54 degrees C      | ok
+PCIe1_Temp       | 51 degrees C      | ok
+PCIe2_Temp       | 51 degrees C      | ok
+PCIe3_Temp       | 51 degrees C      | ok
+PCIe4_Temp       | 52 degrees C      | ok
+PCIe5_Temp       | 54 degrees C      | ok
+PCIe6_Temp       | 53 degrees C      | ok
+PCIe7_Temp       | 50 degrees C      | ok
+PCIe8_Temp       | 51 degrees C      | ok
+PCIe9_Temp       | 52 degrees C      | ok
+PCIe10_Temp      | 51 degrees C      | ok
+PCIe11_Temp      | 53 degrees C      | ok
+PCIe12_Temp      | 53 degrees C      | ok
+PCIe13_Temp      | 52 degrees C      | ok
+PCIe14_Temp      | 52 degrees C      | ok
+PCIe15_Temp      | 50 degrees C      | ok
+FAN8_F_Speed     | 5358 RPM          | ok
+FAN8_R_Speed     | 4845 RPM          | ok
+FAN9_F_Speed     | 5358 RPM          | ok
+FAN9_R_Speed     | 4845 RPM          | ok
+FAN10_F_Speed    | 5358 RPM          | ok
+FAN10_R_Speed    | 4845 RPM          | ok
+FAN11_F_Speed    | 5358 RPM          | ok
+FAN11_R_Speed    | 4845 RPM          | ok
+FAN12_F_Speed    | 5358 RPM          | ok
+FAN12_R_Speed    | 4845 RPM          | ok
+PSU2_PIN         | 234 Watts         | ok
+PSU3_PIN         | 246 Watts         | ok
+PSU4_PIN         | 234 Watts         | ok
+PSU5_PIN         | 222 Watts         | ok
+PSU2_POUT        | 198 Watts         | ok
+PSU3_POUT        | 210 Watts         | ok
+PSU4_POUT        | 198 Watts         | ok
+PSU5_POUT        | 180 Watts         | ok
+Inlet_Temp       | 31 degrees C      | ok
+Outlet_Temp      | 44 degrees C      | ok
+CPU0_DTS         | 53 degrees C      | ok
+CPU1_DTS         | 50 degrees C      | ok
+CPU2_DTS         | 52 degrees C      | ok
+CPU3_DTS         | 53 degrees C      | ok
+CPU0_DDR_DIMM_T  | 44 degrees C      | ok
+CPU1_DDR_DIMM_T  | 40 degrees C      | ok
+CPU2_DDR_DIMM_T  | 40 degrees C      | ok
+CPU3_DDR_DIMM_T  | 44 degrees C      | ok
+CPU0_Vcore_T     | 48 degrees C      | ok
+CPU1_Vcore_T     | 49 degrees C      | ok
+CPU2_Vcore_T     | 49 degrees C      | ok
+CPU3_Vcore_T     | 47 degrees C      | ok
+PCH_Temp         | 47 degrees C      | ok
+OCPNIC_Temp      | 65 degrees C      | ok
+OCPNIC_OPT_T     | 50 degrees C      | ok
+PSU0_Inlet_T     | 39 degrees C      | ok
+PSU1_Inlet_T     | 40 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 450 Watts         | ok
+FAN_Power        | 24 Watts          | ok
+CPU_Power        | 250 Watts         | ok
+Memory_Power     | 88 Watts          | ok
+PSU0_PIN         | 246 Watts         | ok
+PSU1_PIN         | 234 Watts         | ok
+PSU0_POUT        | 222 Watts         | ok
+PSU1_POUT        | 210 Watts         | ok
+FAN0_F_Speed     | 11316 RPM         | ok
+FAN0_R_Speed     | 9717 RPM          | ok
+FAN1_F_Speed     | 11439 RPM         | ok
+FAN1_R_Speed     | 9840 RPM          | ok
+FAN2_F_Speed     | 11439 RPM         | ok
+FAN2_R_Speed     | 9840 RPM          | ok
+FAN3_F_Speed     | 11316 RPM         | ok
+FAN3_R_Speed     | 9840 RPM          | ok
+FAN4_F_Speed     | 11316 RPM         | ok
+FAN4_R_Speed     | 9717 RPM          | ok
+FAN5_F_Speed     | 11439 RPM         | ok
+FAN5_R_Speed     | 9840 RPM          | ok
+FAN6_F_Speed     | 11439 RPM         | ok
+FAN6_R_Speed     | 9840 RPM          | ok
+FAN7_F_Speed     | 11316 RPM         | ok
+FAN7_R_Speed     | 9717 RPM          | ok
+JBOG_Inlet_Temp  | 30 degrees C      | ok
+PCIe0_Temp       | 56 degrees C      | ok
+PCIe1_Temp       | 53 degrees C      | ok
+PCIe2_Temp       | 53 degrees C      | ok
+PCIe3_Temp       | 52 degrees C      | ok
+PCIe4_Temp       | 54 degrees C      | ok
+PCIe5_Temp       | 56 degrees C      | ok
+PCIe6_Temp       | 55 degrees C      | ok
+PCIe7_Temp       | 51 degrees C      | ok
+PCIe8_Temp       | 53 degrees C      | ok
+PCIe9_Temp       | 53 degrees C      | ok
+PCIe10_Temp      | 53 degrees C      | ok
+PCIe11_Temp      | 56 degrees C      | ok
+PCIe12_Temp      | 55 degrees C      | ok
+PCIe13_Temp      | 54 degrees C      | ok
+PCIe14_Temp      | 54 degrees C      | ok
+PCIe15_Temp      | 52 degrees C      | ok
+FAN8_F_Speed     | 5358 RPM          | ok
+FAN8_R_Speed     | 4845 RPM          | ok
+FAN9_F_Speed     | 5358 RPM          | ok
+FAN9_R_Speed     | 4845 RPM          | ok
+FAN10_F_Speed    | 5358 RPM          | ok
+FAN10_R_Speed    | 4845 RPM          | ok
+FAN11_F_Speed    | 5358 RPM          | ok
+FAN11_R_Speed    | 4845 RPM          | ok
+FAN12_F_Speed    | 5358 RPM          | ok
+FAN12_R_Speed    | 4845 RPM          | ok
+PSU2_PIN         | 234 Watts         | ok
+PSU3_PIN         | 246 Watts         | ok
+PSU4_PIN         | 234 Watts         | ok
+PSU5_PIN         | 222 Watts         | ok
+PSU2_POUT        | 198 Watts         | ok
+PSU3_POUT        | 210 Watts         | ok
+PSU4_POUT        | 198 Watts         | ok
+PSU5_POUT        | 198 Watts         | ok
+Inlet_Temp       | 31 degrees C      | ok
+Outlet_Temp      | 44 degrees C      | ok
+CPU0_DTS         | 51 degrees C      | ok
+CPU1_DTS         | 51 degrees C      | ok
+CPU2_DTS         | 52 degrees C      | ok
+CPU3_DTS         | 53 degrees C      | ok
+CPU0_DDR_DIMM_T  | 45 degrees C      | ok
+CPU1_DDR_DIMM_T  | 41 degrees C      | ok
+CPU2_DDR_DIMM_T  | 40 degrees C      | ok
+CPU3_DDR_DIMM_T  | 44 degrees C      | ok
+CPU0_Vcore_T     | 48 degrees C      | ok
+CPU1_Vcore_T     | 48 degrees C      | ok
+CPU2_Vcore_T     | 49 degrees C      | ok
+CPU3_Vcore_T     | 47 degrees C      | ok
+PCH_Temp         | 48 degrees C      | ok
+OCPNIC_Temp      | 67 degrees C      | ok
+OCPNIC_OPT_T     | 51 degrees C      | ok
+PSU0_Inlet_T     | 40 degrees C      | ok
+PSU1_Inlet_T     | 40 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 435 Watts         | ok
+FAN_Power        | 20 Watts          | ok
+CPU_Power        | 250 Watts         | ok
+Memory_Power     | 90 Watts          | ok
+PSU0_PIN         | 246 Watts         | ok
+PSU1_PIN         | 234 Watts         | ok
+PSU0_POUT        | 222 Watts         | ok
+PSU1_POUT        | 204 Watts         | ok
+FAN0_F_Speed     | 11070 RPM         | ok
+FAN0_R_Speed     | 9471 RPM          | ok
+FAN1_F_Speed     | 11193 RPM         | ok
+FAN1_R_Speed     | 9594 RPM          | ok
+FAN2_F_Speed     | 11193 RPM         | ok
+FAN2_R_Speed     | 9594 RPM          | ok
+FAN3_F_Speed     | 11193 RPM         | ok
+FAN3_R_Speed     | 9594 RPM          | ok
+FAN4_F_Speed     | 11070 RPM         | ok
+FAN4_R_Speed     | 9594 RPM          | ok
+FAN5_F_Speed     | 11193 RPM         | ok
+FAN5_R_Speed     | 9594 RPM          | ok
+FAN6_F_Speed     | 11193 RPM         | ok
+FAN6_R_Speed     | 9594 RPM          | ok
+FAN7_F_Speed     | 11070 RPM         | ok
+FAN7_R_Speed     | 9594 RPM          | ok
+JBOG_Inlet_Temp  | 30 degrees C      | ok
+PCIe0_Temp       | 57 degrees C      | ok
+PCIe1_Temp       | 54 degrees C      | ok
+PCIe2_Temp       | 54 degrees C      | ok
+PCIe3_Temp       | 53 degrees C      | ok
+PCIe4_Temp       | 55 degrees C      | ok
+PCIe5_Temp       | 58 degrees C      | ok
+PCIe6_Temp       | 57 degrees C      | ok
+PCIe7_Temp       | 52 degrees C      | ok
+PCIe8_Temp       | 54 degrees C      | ok
+PCIe9_Temp       | 54 degrees C      | ok
+PCIe10_Temp      | 53 degrees C      | ok
+PCIe11_Temp      | 57 degrees C      | ok
+PCIe12_Temp      | 57 degrees C      | ok
+PCIe13_Temp      | 55 degrees C      | ok
+PCIe14_Temp      | 55 degrees C      | ok
+PCIe15_Temp      | 53 degrees C      | ok
+FAN8_F_Speed     | 5358 RPM          | ok
+FAN8_R_Speed     | 4845 RPM          | ok
+FAN9_F_Speed     | 5358 RPM          | ok
+FAN9_R_Speed     | 4845 RPM          | ok
+FAN10_F_Speed    | 5358 RPM          | ok
+FAN10_R_Speed    | 4845 RPM          | ok
+FAN11_F_Speed    | 5358 RPM          | ok
+FAN11_R_Speed    | 4845 RPM          | ok
+FAN12_F_Speed    | 5358 RPM          | ok
+FAN12_R_Speed    | 4845 RPM          | ok
+PSU2_PIN         | 234 Watts         | ok
+PSU3_PIN         | 246 Watts         | ok
+PSU4_PIN         | 234 Watts         | ok
+PSU5_PIN         | 234 Watts         | ok
+PSU2_POUT        | 198 Watts         | ok
+PSU3_POUT        | 210 Watts         | ok
+PSU4_POUT        | 198 Watts         | ok
+PSU5_POUT        | 198 Watts         | ok
+Inlet_Temp       | 30 degrees C      | ok
+Outlet_Temp      | 44 degrees C      | ok
+CPU0_DTS         | 52 degrees C      | ok
+CPU1_DTS         | 50 degrees C      | ok
+CPU2_DTS         | 52 degrees C      | ok
+CPU3_DTS         | 52 degrees C      | ok
+CPU0_DDR_DIMM_T  | 45 degrees C      | ok
+CPU1_DDR_DIMM_T  | 41 degrees C      | ok
+CPU2_DDR_DIMM_T  | 40 degrees C      | ok
+CPU3_DDR_DIMM_T  | 45 degrees C      | ok
+CPU0_Vcore_T     | 48 degrees C      | ok
+CPU1_Vcore_T     | 49 degrees C      | ok
+CPU2_Vcore_T     | 48 degrees C      | ok
+CPU3_Vcore_T     | 46 degrees C      | ok
+PCH_Temp         | 48 degrees C      | ok
+OCPNIC_Temp      | 68 degrees C      | ok
+OCPNIC_OPT_T     | 52 degrees C      | ok
+PSU0_Inlet_T     | 40 degrees C      | ok
+PSU1_Inlet_T     | 40 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 675 Watts         | ok
+FAN_Power        | 20 Watts          | ok
+CPU_Power        | 800 Watts         | ok
+Memory_Power     | 182 Watts         | ok
+PSU0_PIN         | 660 Watts         | ok
+PSU1_PIN         | 624 Watts         | ok
+PSU0_POUT        | 618 Watts         | ok
+PSU1_POUT        | 588 Watts         | ok
+FAN0_F_Speed     | 13899 RPM         | ok
+FAN0_R_Speed     | 11808 RPM         | ok
+FAN1_F_Speed     | 14022 RPM         | ok
+FAN1_R_Speed     | 12054 RPM         | ok
+FAN2_F_Speed     | 14145 RPM         | ok
+FAN2_R_Speed     | 12054 RPM         | ok
+FAN3_F_Speed     | 14022 RPM         | ok
+FAN3_R_Speed     | 11931 RPM         | ok
+FAN4_F_Speed     | 15375 RPM         | ok
+FAN4_R_Speed     | 13161 RPM         | ok
+FAN5_F_Speed     | 15375 RPM         | ok
+FAN5_R_Speed     | 13284 RPM         | ok
+FAN6_F_Speed     | 15375 RPM         | ok
+FAN6_R_Speed     | 13038 RPM         | ok
+FAN7_F_Speed     | 15375 RPM         | ok
+FAN7_R_Speed     | 13161 RPM         | ok
+JBOG_Inlet_Temp  | 32 degrees C      | ok
+PCIe0_Temp       | 51 degrees C      | ok
+PCIe1_Temp       | 48 degrees C      | ok
+PCIe2_Temp       | 48 degrees C      | ok
+PCIe3_Temp       | 47 degrees C      | ok
+PCIe4_Temp       | 49 degrees C      | ok
+PCIe5_Temp       | 50 degrees C      | ok
+PCIe6_Temp       | 50 degrees C      | ok
+PCIe7_Temp       | 47 degrees C      | ok
+PCIe8_Temp       | 48 degrees C      | ok
+PCIe9_Temp       | 49 degrees C      | ok
+PCIe10_Temp      | 48 degrees C      | ok
+PCIe11_Temp      | 51 degrees C      | ok
+PCIe12_Temp      | 51 degrees C      | ok
+PCIe13_Temp      | 50 degrees C      | ok
+PCIe14_Temp      | 49 degrees C      | ok
+PCIe15_Temp      | 47 degrees C      | ok
+FAN8_F_Speed     | 14079 RPM         | ok
+FAN8_R_Speed     | 12312 RPM         | ok
+FAN9_F_Speed     | 14307 RPM         | ok
+FAN9_R_Speed     | 12312 RPM         | ok
+FAN10_F_Speed    | 14364 RPM         | ok
+FAN10_R_Speed    | 13851 RPM         | ok
+FAN11_F_Speed    | 14364 RPM         | ok
+FAN11_R_Speed    | 13851 RPM         | ok
+FAN12_F_Speed    | 14364 RPM         | ok
+FAN12_R_Speed    | 13851 RPM         | ok
+PSU2_PIN         | 300 Watts         | ok
+PSU3_PIN         | 324 Watts         | ok
+PSU4_PIN         | 300 Watts         | ok
+PSU5_PIN         | 300 Watts         | ok
+PSU2_POUT        | 258 Watts         | ok
+PSU3_POUT        | 276 Watts         | ok
+PSU4_POUT        | 258 Watts         | ok
+PSU5_POUT        | 246 Watts         | ok
+Inlet_Temp       | 32 degrees C      | ok
+Outlet_Temp      | 46 degrees C      | ok
+CPU0_DTS         | 13 degrees C      | ok
+CPU1_DTS         | 13 degrees C      | ok
+CPU2_DTS         | 8 degrees C       | ok
+CPU3_DTS         | 13 degrees C      | ok
+CPU0_DDR_DIMM_T  | 48 degrees C      | ok
+CPU1_DDR_DIMM_T  | 41 degrees C      | ok
+CPU2_DDR_DIMM_T  | 41 degrees C      | ok
+CPU3_DDR_DIMM_T  | 46 degrees C      | ok
+CPU0_Vcore_T     | 68 degrees C      | ok
+CPU1_Vcore_T     | 67 degrees C      | ok
+CPU2_Vcore_T     | 69 degrees C      | ok
+CPU3_Vcore_T     | 69 degrees C      | ok
+PCH_Temp         | 50 degrees C      | ok
+OCPNIC_Temp      | 60 degrees C      | ok
+OCPNIC_OPT_T     | 50 degrees C      | ok
+PSU0_Inlet_T     | 41 degrees C      | ok
+PSU1_Inlet_T     | 41 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 1800 Watts        | ok
+FAN_Power        | 320 Watts         | ok
+CPU_Power        | 1060 Watts        | ok
+Memory_Power     | 176 Watts         | ok
+PSU0_PIN         | 996 Watts         | ok
+PSU1_PIN         | 948 Watts         | ok
+PSU0_POUT        | 924 Watts         | ok
+PSU1_POUT        | 882 Watts         | ok
+FAN0_F_Speed     | 31365 RPM         | ok
+FAN0_R_Speed     | 27798 RPM         | ok
+FAN1_F_Speed     | 31365 RPM         | ok
+FAN1_R_Speed     | 27798 RPM         | ok
+FAN2_F_Speed     | 31365 RPM         | ok
+FAN2_R_Speed     | 27921 RPM         | ok
+FAN3_F_Speed     | 31365 RPM         | ok
+FAN3_R_Speed     | 27675 RPM         | ok
+FAN4_F_Speed     | 31365 RPM         | ok
+FAN4_R_Speed     | 27675 RPM         | ok
+FAN5_F_Speed     | 31365 RPM         | ok
+FAN5_R_Speed     | 27552 RPM         | ok
+FAN6_F_Speed     | 31365 RPM         | ok
+FAN6_R_Speed     | 27552 RPM         | ok
+FAN7_F_Speed     | 31365 RPM         | ok
+FAN7_R_Speed     | 27798 RPM         | ok
+JBOG_Inlet_Temp  | 32 degrees C      | ok
+PCIe0_Temp       | 48 degrees C      | ok
+PCIe1_Temp       | 45 degrees C      | ok
+PCIe2_Temp       | 45 degrees C      | ok
+PCIe3_Temp       | 45 degrees C      | ok
+PCIe4_Temp       | 46 degrees C      | ok
+PCIe5_Temp       | 47 degrees C      | ok
+PCIe6_Temp       | 47 degrees C      | ok
+PCIe7_Temp       | 45 degrees C      | ok
+PCIe8_Temp       | 45 degrees C      | ok
+PCIe9_Temp       | 47 degrees C      | ok
+PCIe10_Temp      | 46 degrees C      | ok
+PCIe11_Temp      | 47 degrees C      | ok
+PCIe12_Temp      | 47 degrees C      | ok
+PCIe13_Temp      | 47 degrees C      | ok
+PCIe14_Temp      | 46 degrees C      | ok
+PCIe15_Temp      | 45 degrees C      | ok
+FAN8_F_Speed     | 14364 RPM         | ok
+FAN8_R_Speed     | 13566 RPM         | ok
+FAN9_F_Speed     | 14364 RPM         | ok
+FAN9_R_Speed     | 13851 RPM         | ok
+FAN10_F_Speed    | 14364 RPM         | ok
+FAN10_R_Speed    | 13851 RPM         | ok
+FAN11_F_Speed    | 14364 RPM         | ok
+FAN11_R_Speed    | 13851 RPM         | ok
+FAN12_F_Speed    | 14364 RPM         | ok
+FAN12_R_Speed    | 13851 RPM         | ok
+PSU2_PIN         | 300 Watts         | ok
+PSU3_PIN         | 324 Watts         | ok
+PSU4_PIN         | 300 Watts         | ok
+PSU5_PIN         | 300 Watts         | ok
+PSU2_POUT        | 258 Watts         | ok
+PSU3_POUT        | 276 Watts         | ok
+PSU4_POUT        | 258 Watts         | ok
+PSU5_POUT        | 246 Watts         | ok
+Inlet_Temp       | 32 degrees C      | ok
+Outlet_Temp      | 46 degrees C      | ok
+CPU0_DTS         | 40 degrees C      | ok
+CPU1_DTS         | 41 degrees C      | ok
+CPU2_DTS         | 37 degrees C      | ok
+CPU3_DTS         | 39 degrees C      | ok
+CPU0_DDR_DIMM_T  | 48 degrees C      | ok
+CPU1_DDR_DIMM_T  | 42 degrees C      | ok
+CPU2_DDR_DIMM_T  | 42 degrees C      | ok
+CPU3_DDR_DIMM_T  | 46 degrees C      | ok
+CPU0_Vcore_T     | 62 degrees C      | ok
+CPU1_Vcore_T     | 60 degrees C      | ok
+CPU2_Vcore_T     | 63 degrees C      | ok
+CPU3_Vcore_T     | 64 degrees C      | ok
+PCH_Temp         | 50 degrees C      | ok
+OCPNIC_Temp      | 60 degrees C      | ok
+OCPNIC_OPT_T     | 50 degrees C      | ok
+PSU0_Inlet_T     | 40 degrees C      | ok
+PSU1_Inlet_T     | 41 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 690 Watts         | ok
+FAN_Power        | 274 Watts         | ok
+CPU_Power        | 250 Watts         | ok
+Memory_Power     | 90 Watts          | ok
+PSU0_PIN         | 384 Watts         | ok
+PSU1_PIN         | 366 Watts         | ok
+PSU0_POUT        | 360 Watts         | ok
+PSU1_POUT        | 336 Watts         | ok
+FAN0_F_Speed     | 31365 RPM         | ok
+FAN0_R_Speed     | 26814 RPM         | ok
+FAN1_F_Speed     | 31242 RPM         | ok
+FAN1_R_Speed     | 27060 RPM         | ok
+FAN2_F_Speed     | 31365 RPM         | ok
+FAN2_R_Speed     | 27183 RPM         | ok
+FAN3_F_Speed     | 31365 RPM         | ok
+FAN3_R_Speed     | 27183 RPM         | ok
+FAN4_F_Speed     | 31365 RPM         | ok
+FAN4_R_Speed     | 27060 RPM         | ok
+FAN5_F_Speed     | 31365 RPM         | ok
+FAN5_R_Speed     | 27183 RPM         | ok
+FAN6_F_Speed     | 30504 RPM         | ok
+FAN6_R_Speed     | 25953 RPM         | ok
+FAN7_F_Speed     | 30504 RPM         | ok
+FAN7_R_Speed     | 26076 RPM         | ok
+JBOG_Inlet_Temp  | 32 degrees C      | ok
+PCIe0_Temp       | 50 degrees C      | ok
+PCIe1_Temp       | 47 degrees C      | ok
+PCIe2_Temp       | 47 degrees C      | ok
+PCIe3_Temp       | 47 degrees C      | ok
+PCIe4_Temp       | 48 degrees C      | ok
+PCIe5_Temp       | 49 degrees C      | ok
+PCIe6_Temp       | 49 degrees C      | ok
+PCIe7_Temp       | 46 degrees C      | ok
+PCIe8_Temp       | 47 degrees C      | ok
+PCIe9_Temp       | 48 degrees C      | ok
+PCIe10_Temp      | 48 degrees C      | ok
+PCIe11_Temp      | 49 degrees C      | ok
+PCIe12_Temp      | 49 degrees C      | ok
+PCIe13_Temp      | 49 degrees C      | ok
+PCIe14_Temp      | 48 degrees C      | ok
+PCIe15_Temp      | 46 degrees C      | ok
+FAN8_F_Speed     | 8949 RPM          | ok
+FAN8_R_Speed     | 8265 RPM          | ok
+FAN9_F_Speed     | 8892 RPM          | ok
+FAN9_R_Speed     | 8436 RPM          | ok
+FAN10_F_Speed    | 8949 RPM          | ok
+FAN10_R_Speed    | 8265 RPM          | ok
+FAN11_F_Speed    | 8265 RPM          | ok
+FAN11_R_Speed    | 7695 RPM          | ok
+FAN12_F_Speed    | 8265 RPM          | ok
+FAN12_R_Speed    | 7695 RPM          | ok
+PSU2_PIN         | 234 Watts         | ok
+PSU3_PIN         | 246 Watts         | ok
+PSU4_PIN         | 234 Watts         | ok
+PSU5_PIN         | 234 Watts         | ok
+PSU2_POUT        | 198 Watts         | ok
+PSU3_POUT        | 210 Watts         | ok
+PSU4_POUT        | 198 Watts         | ok
+PSU5_POUT        | 198 Watts         | ok
+Inlet_Temp       | 31 degrees C      | ok
+Outlet_Temp      | 43 degrees C      | ok
+CPU0_DTS         | 53 degrees C      | ok
+CPU1_DTS         | 55 degrees C      | ok
+CPU2_DTS         | 54 degrees C      | ok
+CPU3_DTS         | 54 degrees C      | ok
+CPU0_DDR_DIMM_T  | 43 degrees C      | ok
+CPU1_DDR_DIMM_T  | 40 degrees C      | ok
+CPU2_DDR_DIMM_T  | 39 degrees C      | ok
+CPU3_DDR_DIMM_T  | 42 degrees C      | ok
+CPU0_Vcore_T     | 50 degrees C      | ok
+CPU1_Vcore_T     | 49 degrees C      | ok
+CPU2_Vcore_T     | 50 degrees C      | ok
+CPU3_Vcore_T     | 49 degrees C      | ok
+PCH_Temp         | 48 degrees C      | ok
+OCPNIC_Temp      | 60 degrees C      | ok
+OCPNIC_OPT_T     | 48 degrees C      | ok
+PSU0_Inlet_T     | 39 degrees C      | ok
+PSU1_Inlet_T     | 40 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 480 Watts         | ok
+FAN_Power        | 70 Watts          | ok
+CPU_Power        | 245 Watts         | ok
+Memory_Power     | 90 Watts          | ok
+PSU0_PIN         | 270 Watts         | ok
+PSU1_PIN         | 252 Watts         | ok
+PSU0_POUT        | 246 Watts         | ok
+PSU1_POUT        | 228 Watts         | ok
+FAN0_F_Speed     | 20664 RPM         | ok
+FAN0_R_Speed     | 17712 RPM         | ok
+FAN1_F_Speed     | 20787 RPM         | ok
+FAN1_R_Speed     | 17835 RPM         | ok
+FAN2_F_Speed     | 18942 RPM         | ok
+FAN2_R_Speed     | 16113 RPM         | ok
+FAN3_F_Speed     | 18819 RPM         | ok
+FAN3_R_Speed     | 16113 RPM         | ok
+FAN4_F_Speed     | 18819 RPM         | ok
+FAN4_R_Speed     | 16113 RPM         | ok
+FAN5_F_Speed     | 18819 RPM         | ok
+FAN5_R_Speed     | 16113 RPM         | ok
+FAN6_F_Speed     | 18081 RPM         | ok
+FAN6_R_Speed     | 15129 RPM         | ok
+FAN7_F_Speed     | 17220 RPM         | ok
+FAN7_R_Speed     | 14883 RPM         | ok
+JBOG_Inlet_Temp  | 31 degrees C      | ok
+PCIe0_Temp       | 53 degrees C      | ok
+PCIe1_Temp       | 50 degrees C      | ok
+PCIe2_Temp       | 50 degrees C      | ok
+PCIe3_Temp       | 49 degrees C      | ok
+PCIe4_Temp       | 51 degrees C      | ok
+PCIe5_Temp       | 53 degrees C      | ok
+PCIe6_Temp       | 52 degrees C      | ok
+PCIe7_Temp       | 49 degrees C      | ok
+PCIe8_Temp       | 50 degrees C      | ok
+PCIe9_Temp       | 51 degrees C      | ok
+PCIe10_Temp      | 50 degrees C      | ok
+PCIe11_Temp      | 53 degrees C      | ok
+PCIe12_Temp      | 52 degrees C      | ok
+PCIe13_Temp      | 52 degrees C      | ok
+PCIe14_Temp      | 51 degrees C      | ok
+PCIe15_Temp      | 49 degrees C      | ok
+FAN8_F_Speed     | 5358 RPM          | ok
+FAN8_R_Speed     | 5130 RPM          | ok
+FAN9_F_Speed     | 5358 RPM          | ok
+FAN9_R_Speed     | 5130 RPM          | ok
+FAN10_F_Speed    | 5358 RPM          | ok
+FAN10_R_Speed    | 5130 RPM          | ok
+FAN11_F_Speed    | 5358 RPM          | ok
+FAN11_R_Speed    | 5130 RPM          | ok
+FAN12_F_Speed    | 5358 RPM          | ok
+FAN12_R_Speed    | 5130 RPM          | ok
+PSU2_PIN         | 222 Watts         | ok
+PSU3_PIN         | 246 Watts         | ok
+PSU4_PIN         | 234 Watts         | ok
+PSU5_PIN         | 222 Watts         | ok
+PSU2_POUT        | 198 Watts         | ok
+PSU3_POUT        | 210 Watts         | ok
+PSU4_POUT        | 198 Watts         | ok
+PSU5_POUT        | 180 Watts         | ok
+Inlet_Temp       | 31 degrees C      | ok
+Outlet_Temp      | 43 degrees C      | ok
+CPU0_DTS         | 53 degrees C      | ok
+CPU1_DTS         | 55 degrees C      | ok
+CPU2_DTS         | 54 degrees C      | ok
+CPU3_DTS         | 52 degrees C      | ok
+CPU0_DDR_DIMM_T  | 44 degrees C      | ok
+CPU1_DDR_DIMM_T  | 40 degrees C      | ok
+CPU2_DDR_DIMM_T  | 40 degrees C      | ok
+CPU3_DDR_DIMM_T  | 43 degrees C      | ok
+CPU0_Vcore_T     | 48 degrees C      | ok
+CPU1_Vcore_T     | 48 degrees C      | ok
+CPU2_Vcore_T     | 49 degrees C      | ok
+CPU3_Vcore_T     | 48 degrees C      | ok
+PCH_Temp         | 48 degrees C      | ok
+OCPNIC_Temp      | 63 degrees C      | ok
+OCPNIC_OPT_T     | 49 degrees C      | ok
+PSU0_Inlet_T     | 39 degrees C      | ok
+PSU1_Inlet_T     | 40 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 435 Watts         | ok
+FAN_Power        | 24 Watts          | ok
+CPU_Power        | 250 Watts         | ok
+Memory_Power     | 90 Watts          | ok
+PSU0_PIN         | 246 Watts         | ok
+PSU1_PIN         | 234 Watts         | ok
+PSU0_POUT        | 222 Watts         | ok
+PSU1_POUT        | 210 Watts         | ok
+FAN0_F_Speed     | 11931 RPM         | ok
+FAN0_R_Speed     | 10332 RPM         | ok
+FAN1_F_Speed     | 12054 RPM         | ok
+FAN1_R_Speed     | 10455 RPM         | ok
+FAN2_F_Speed     | 11931 RPM         | ok
+FAN2_R_Speed     | 10086 RPM         | ok
+FAN3_F_Speed     | 11685 RPM         | ok
+FAN3_R_Speed     | 10086 RPM         | ok
+FAN4_F_Speed     | 11685 RPM         | ok
+FAN4_R_Speed     | 10086 RPM         | ok
+FAN5_F_Speed     | 11808 RPM         | ok
+FAN5_R_Speed     | 10086 RPM         | ok
+FAN6_F_Speed     | 11685 RPM         | ok
+FAN6_R_Speed     | 10086 RPM         | ok
+FAN7_F_Speed     | 11685 RPM         | ok
+FAN7_R_Speed     | 9963 RPM          | ok
+JBOG_Inlet_Temp  | 30 degrees C      | ok
+PCIe0_Temp       | 56 degrees C      | ok
+PCIe1_Temp       | 52 degrees C      | ok
+PCIe2_Temp       | 52 degrees C      | ok
+PCIe3_Temp       | 51 degrees C      | ok
+PCIe4_Temp       | 53 degrees C      | ok
+PCIe5_Temp       | 55 degrees C      | ok
+PCIe6_Temp       | 55 degrees C      | ok
+PCIe7_Temp       | 51 degrees C      | ok
+PCIe8_Temp       | 52 degrees C      | ok
+PCIe9_Temp       | 53 degrees C      | ok
+PCIe10_Temp      | 52 degrees C      | ok
+PCIe11_Temp      | 55 degrees C      | ok
+PCIe12_Temp      | 54 degrees C      | ok
+PCIe13_Temp      | 54 degrees C      | ok
+PCIe14_Temp      | 53 degrees C      | ok
+PCIe15_Temp      | 51 degrees C      | ok
+FAN8_F_Speed     | 5358 RPM          | ok
+FAN8_R_Speed     | 4845 RPM          | ok
+FAN9_F_Speed     | 5358 RPM          | ok
+FAN9_R_Speed     | 4845 RPM          | ok
+FAN10_F_Speed    | 5358 RPM          | ok
+FAN10_R_Speed    | 4845 RPM          | ok
+FAN11_F_Speed    | 5358 RPM          | ok
+FAN11_R_Speed    | 4845 RPM          | ok
+FAN12_F_Speed    | 5358 RPM          | ok
+FAN12_R_Speed    | 4845 RPM          | ok
+PSU2_PIN         | 234 Watts         | ok
+PSU3_PIN         | 246 Watts         | ok
+PSU4_PIN         | 234 Watts         | ok
+PSU5_PIN         | 222 Watts         | ok
+PSU2_POUT        | 198 Watts         | ok
+PSU3_POUT        | 210 Watts         | ok
+PSU4_POUT        | 198 Watts         | ok
+PSU5_POUT        | 186 Watts         | ok
+Inlet_Temp       | 31 degrees C      | ok
+Outlet_Temp      | 44 degrees C      | ok
+CPU0_DTS         | 52 degrees C      | ok
+CPU1_DTS         | 49 degrees C      | ok
+CPU2_DTS         | 52 degrees C      | ok
+CPU3_DTS         | 53 degrees C      | ok
+CPU0_DDR_DIMM_T  | 45 degrees C      | ok
+CPU1_DDR_DIMM_T  | 41 degrees C      | ok
+CPU2_DDR_DIMM_T  | 40 degrees C      | ok
+CPU3_DDR_DIMM_T  | 44 degrees C      | ok
+CPU0_Vcore_T     | 48 degrees C      | ok
+CPU1_Vcore_T     | 49 degrees C      | ok
+CPU2_Vcore_T     | 48 degrees C      | ok
+CPU3_Vcore_T     | 47 degrees C      | ok
+PCH_Temp         | 48 degrees C      | ok
+OCPNIC_Temp      | 66 degrees C      | ok
+OCPNIC_OPT_T     | 51 degrees C      | ok
+PSU0_Inlet_T     | 40 degrees C      | ok
+PSU1_Inlet_T     | 40 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 435 Watts         | ok
+FAN_Power        | 22 Watts          | ok
+CPU_Power        | 250 Watts         | ok
+Memory_Power     | 90 Watts          | ok
+PSU0_PIN         | 246 Watts         | ok
+PSU1_PIN         | 234 Watts         | ok
+PSU0_POUT        | 222 Watts         | ok
+PSU1_POUT        | 210 Watts         | ok
+FAN0_F_Speed     | 11070 RPM         | ok
+FAN0_R_Speed     | 9594 RPM          | ok
+FAN1_F_Speed     | 11316 RPM         | ok
+FAN1_R_Speed     | 9594 RPM          | ok
+FAN2_F_Speed     | 11193 RPM         | ok
+FAN2_R_Speed     | 9594 RPM          | ok
+FAN3_F_Speed     | 11193 RPM         | ok
+FAN3_R_Speed     | 9594 RPM          | ok
+FAN4_F_Speed     | 11070 RPM         | ok
+FAN4_R_Speed     | 9471 RPM          | ok
+FAN5_F_Speed     | 11193 RPM         | ok
+FAN5_R_Speed     | 9594 RPM          | ok
+FAN6_F_Speed     | 11193 RPM         | ok
+FAN6_R_Speed     | 9594 RPM          | ok
+FAN7_F_Speed     | 11070 RPM         | ok
+FAN7_R_Speed     | 9594 RPM          | ok
+JBOG_Inlet_Temp  | 29 degrees C      | ok
+PCIe0_Temp       | 56 degrees C      | ok
+PCIe1_Temp       | 53 degrees C      | ok
+PCIe2_Temp       | 53 degrees C      | ok
+PCIe3_Temp       | 52 degrees C      | ok
+PCIe4_Temp       | 55 degrees C      | ok
+PCIe5_Temp       | 56 degrees C      | ok
+PCIe6_Temp       | 56 degrees C      | ok
+PCIe7_Temp       | 51 degrees C      | ok
+PCIe8_Temp       | 53 degrees C      | ok
+PCIe9_Temp       | 54 degrees C      | ok
+PCIe10_Temp      | 53 degrees C      | ok
+PCIe11_Temp      | 56 degrees C      | ok
+PCIe12_Temp      | 56 degrees C      | ok
+PCIe13_Temp      | 55 degrees C      | ok
+PCIe14_Temp      | 55 degrees C      | ok
+PCIe15_Temp      | 52 degrees C      | ok
+FAN8_F_Speed     | 5358 RPM          | ok
+FAN8_R_Speed     | 4845 RPM          | ok
+FAN9_F_Speed     | 5187 RPM          | ok
+FAN9_R_Speed     | 4845 RPM          | ok
+FAN10_F_Speed    | 5358 RPM          | ok
+FAN10_R_Speed    | 4845 RPM          | ok
+FAN11_F_Speed    | 5130 RPM          | ok
+FAN11_R_Speed    | 4845 RPM          | ok
+FAN12_F_Speed    | 5187 RPM          | ok
+FAN12_R_Speed    | 4845 RPM          | ok
+PSU2_PIN         | 234 Watts         | ok
+PSU3_PIN         | 246 Watts         | ok
+PSU4_PIN         | 234 Watts         | ok
+PSU5_PIN         | 222 Watts         | ok
+PSU2_POUT        | 198 Watts         | ok
+PSU3_POUT        | 210 Watts         | ok
+PSU4_POUT        | 198 Watts         | ok
+PSU5_POUT        | 198 Watts         | ok
+Inlet_Temp       | 30 degrees C      | ok
+Outlet_Temp      | 44 degrees C      | ok
+CPU0_DTS         | 52 degrees C      | ok
+CPU1_DTS         | 51 degrees C      | ok
+CPU2_DTS         | 52 degrees C      | ok
+CPU3_DTS         | 52 degrees C      | ok
+CPU0_DDR_DIMM_T  | 45 degrees C      | ok
+CPU1_DDR_DIMM_T  | 41 degrees C      | ok
+CPU2_DDR_DIMM_T  | 40 degrees C      | ok
+CPU3_DDR_DIMM_T  | 44 degrees C      | ok
+CPU0_Vcore_T     | 48 degrees C      | ok
+CPU1_Vcore_T     | 48 degrees C      | ok
+CPU2_Vcore_T     | 48 degrees C      | ok
+CPU3_Vcore_T     | 46 degrees C      | ok
+PCH_Temp         | 48 degrees C      | ok
+OCPNIC_Temp      | 67 degrees C      | ok
+OCPNIC_OPT_T     | 52 degrees C      | ok
+PSU0_Inlet_T     | 40 degrees C      | ok
+PSU1_Inlet_T     | 40 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 435 Watts         | ok
+FAN_Power        | 22 Watts          | ok
+CPU_Power        | 250 Watts         | ok
+Memory_Power     | 88 Watts          | ok
+PSU0_PIN         | 246 Watts         | ok
+PSU1_PIN         | 234 Watts         | ok
+PSU0_POUT        | 222 Watts         | ok
+PSU1_POUT        | 210 Watts         | ok
+FAN0_F_Speed     | 11070 RPM         | ok
+FAN0_R_Speed     | 9594 RPM          | ok
+FAN1_F_Speed     | 11193 RPM         | ok
+FAN1_R_Speed     | 9594 RPM          | ok
+FAN2_F_Speed     | 11316 RPM         | ok
+FAN2_R_Speed     | 9594 RPM          | ok
+FAN3_F_Speed     | 11193 RPM         | ok
+FAN3_R_Speed     | 9594 RPM          | ok
+FAN4_F_Speed     | 11070 RPM         | ok
+FAN4_R_Speed     | 9594 RPM          | ok
+FAN5_F_Speed     | 11193 RPM         | ok
+FAN5_R_Speed     | 9594 RPM          | ok
+FAN6_F_Speed     | 11193 RPM         | ok
+FAN6_R_Speed     | 9594 RPM          | ok
+FAN7_F_Speed     | 11070 RPM         | ok
+FAN7_R_Speed     | 9594 RPM          | ok
+JBOG_Inlet_Temp  | 29 degrees C      | ok
+PCIe0_Temp       | 58 degrees C      | ok
+PCIe1_Temp       | 55 degrees C      | ok
+PCIe2_Temp       | 55 degrees C      | ok
+PCIe3_Temp       | 54 degrees C      | ok
+PCIe4_Temp       | 56 degrees C      | ok
+PCIe5_Temp       | 58 degrees C      | ok
+PCIe6_Temp       | 57 degrees C      | ok
+PCIe7_Temp       | 52 degrees C      | ok
+PCIe8_Temp       | 54 degrees C      | ok
+PCIe9_Temp       | 55 degrees C      | ok
+PCIe10_Temp      | 54 degrees C      | ok
+PCIe11_Temp      | 58 degrees C      | ok
+PCIe12_Temp      | 57 degrees C      | ok
+PCIe13_Temp      | 56 degrees C      | ok
+PCIe14_Temp      | 56 degrees C      | ok
+PCIe15_Temp      | 53 degrees C      | ok
+FAN8_F_Speed     | 6897 RPM          | ok
+FAN8_R_Speed     | 6384 RPM          | ok
+FAN9_F_Speed     | 6897 RPM          | ok
+FAN9_R_Speed     | 6384 RPM          | ok
+FAN10_F_Speed    | 7410 RPM          | ok
+FAN10_R_Speed    | 6897 RPM          | ok
+FAN11_F_Speed    | 7182 RPM          | ok
+FAN11_R_Speed    | 6612 RPM          | ok
+FAN12_F_Speed    | 7182 RPM          | ok
+FAN12_R_Speed    | 8037 RPM          | ok
+PSU2_PIN         | 246 Watts         | ok
+PSU3_PIN         | 258 Watts         | ok
+PSU4_PIN         | 246 Watts         | ok
+PSU5_PIN         | 282 Watts         | ok
+PSU2_POUT        | 246 Watts         | ok
+PSU3_POUT        | 258 Watts         | ok
+PSU4_POUT        | 246 Watts         | ok
+PSU5_POUT        | 246 Watts         | ok
+Inlet_Temp       | 31 degrees C      | ok
+Outlet_Temp      | 44 degrees C      | ok
+CPU0_DTS         | 15 degrees C      | ok
+CPU1_DTS         | 14 degrees C      | ok
+CPU2_DTS         | 12 degrees C      | ok
+CPU3_DTS         | 16 degrees C      | ok
+CPU0_DDR_DIMM_T  | 46 degrees C      | ok
+CPU1_DDR_DIMM_T  | 41 degrees C      | ok
+CPU2_DDR_DIMM_T  | 40 degrees C      | ok
+CPU3_DDR_DIMM_T  | 45 degrees C      | ok
+CPU0_Vcore_T     | 62 degrees C      | ok
+CPU1_Vcore_T     | 61 degrees C      | ok
+CPU2_Vcore_T     | 62 degrees C      | ok
+CPU3_Vcore_T     | 62 degrees C      | ok
+PCH_Temp         | 48 degrees C      | ok
+OCPNIC_Temp      | 62 degrees C      | ok
+OCPNIC_OPT_T     | 52 degrees C      | ok
+PSU0_Inlet_T     | 40 degrees C      | ok
+PSU1_Inlet_T     | 40 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 1740 Watts        | ok
+FAN_Power        | 256 Watts         | ok
+CPU_Power        | 1060 Watts        | ok
+Memory_Power     | 176 Watts         | ok
+PSU0_PIN         | 954 Watts         | ok
+PSU1_PIN         | 912 Watts         | ok
+PSU0_POUT        | 882 Watts         | ok
+PSU1_POUT        | 858 Watts         | ok
+FAN0_F_Speed     | 28167 RPM         | ok
+FAN0_R_Speed     | 23985 RPM         | ok
+FAN1_F_Speed     | 27921 RPM         | ok
+FAN1_R_Speed     | 23985 RPM         | ok
+FAN2_F_Speed     | 28167 RPM         | ok
+FAN2_R_Speed     | 23985 RPM         | ok
+FAN3_F_Speed     | 28167 RPM         | ok
+FAN3_R_Speed     | 23985 RPM         | ok
+FAN4_F_Speed     | 31365 RPM         | ok
+FAN4_R_Speed     | 27798 RPM         | ok
+FAN5_F_Speed     | 31365 RPM         | ok
+FAN5_R_Speed     | 27552 RPM         | ok
+FAN6_F_Speed     | 31365 RPM         | ok
+FAN6_R_Speed     | 27552 RPM         | ok
+FAN7_F_Speed     | 31365 RPM         | ok
+FAN7_R_Speed     | 27798 RPM         | ok
+JBOG_Inlet_Temp  | 32 degrees C      | ok
+PCIe0_Temp       | 49 degrees C      | ok
+PCIe1_Temp       | 46 degrees C      | ok
+PCIe2_Temp       | 46 degrees C      | ok
+PCIe3_Temp       | 46 degrees C      | ok
+PCIe4_Temp       | 47 degrees C      | ok
+PCIe5_Temp       | 48 degrees C      | ok
+PCIe6_Temp       | 48 degrees C      | ok
+PCIe7_Temp       | 45 degrees C      | ok
+PCIe8_Temp       | 46 degrees C      | ok
+PCIe9_Temp       | 47 degrees C      | ok
+PCIe10_Temp      | 47 degrees C      | ok
+PCIe11_Temp      | 48 degrees C      | ok
+PCIe12_Temp      | 49 degrees C      | ok
+PCIe13_Temp      | 48 degrees C      | ok
+PCIe14_Temp      | 47 degrees C      | ok
+PCIe15_Temp      | 46 degrees C      | ok
+FAN8_F_Speed     | 14079 RPM         | ok
+FAN8_R_Speed     | 13566 RPM         | ok
+FAN9_F_Speed     | 14364 RPM         | ok
+FAN9_R_Speed     | 13851 RPM         | ok
+FAN10_F_Speed    | 14364 RPM         | ok
+FAN10_R_Speed    | 13851 RPM         | ok
+FAN11_F_Speed    | 14364 RPM         | ok
+FAN11_R_Speed    | 13851 RPM         | ok
+FAN12_F_Speed    | 14364 RPM         | ok
+FAN12_R_Speed    | 13851 RPM         | ok
+PSU2_PIN         | 300 Watts         | ok
+PSU3_PIN         | 324 Watts         | ok
+PSU4_PIN         | 300 Watts         | ok
+PSU5_PIN         | 300 Watts         | ok
+PSU2_POUT        | 258 Watts         | ok
+PSU3_POUT        | 276 Watts         | ok
+PSU4_POUT        | 258 Watts         | ok
+PSU5_POUT        | 258 Watts         | ok
+Inlet_Temp       | 32 degrees C      | ok
+Outlet_Temp      | 46 degrees C      | ok
+CPU0_DTS         | 13 degrees C      | ok
+CPU1_DTS         | 13 degrees C      | ok
+CPU2_DTS         | 9 degrees C       | ok
+CPU3_DTS         | 13 degrees C      | ok
+CPU0_DDR_DIMM_T  | 48 degrees C      | ok
+CPU1_DDR_DIMM_T  | 42 degrees C      | ok
+CPU2_DDR_DIMM_T  | 42 degrees C      | ok
+CPU3_DDR_DIMM_T  | 46 degrees C      | ok
+CPU0_Vcore_T     | 69 degrees C      | ok
+CPU1_Vcore_T     | 69 degrees C      | ok
+CPU2_Vcore_T     | 70 degrees C      | ok
+CPU3_Vcore_T     | 70 degrees C      | ok
+PCH_Temp         | 50 degrees C      | ok
+OCPNIC_Temp      | 60 degrees C      | ok
+OCPNIC_OPT_T     | 50 degrees C      | ok
+PSU0_Inlet_T     | 41 degrees C      | ok
+PSU1_Inlet_T     | 41 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 1815 Watts        | ok
+FAN_Power        | 322 Watts         | ok
+CPU_Power        | 1060 Watts        | ok
+Memory_Power     | 176 Watts         | ok
+PSU0_PIN         | 996 Watts         | ok
+PSU1_PIN         | 948 Watts         | ok
+PSU0_POUT        | 930 Watts         | ok
+PSU1_POUT        | 870 Watts         | ok
+FAN0_F_Speed     | 31365 RPM         | ok
+FAN0_R_Speed     | 27798 RPM         | ok
+FAN1_F_Speed     | 31365 RPM         | ok
+FAN1_R_Speed     | 27798 RPM         | ok
+FAN2_F_Speed     | 31365 RPM         | ok
+FAN2_R_Speed     | 27921 RPM         | ok
+FAN3_F_Speed     | 31365 RPM         | ok
+FAN3_R_Speed     | 27675 RPM         | ok
+FAN4_F_Speed     | 31365 RPM         | ok
+FAN4_R_Speed     | 27798 RPM         | ok
+FAN5_F_Speed     | 31365 RPM         | ok
+FAN5_R_Speed     | 27429 RPM         | ok
+FAN6_F_Speed     | 31365 RPM         | ok
+FAN6_R_Speed     | 27552 RPM         | ok
+FAN7_F_Speed     | 31365 RPM         | ok
+FAN7_R_Speed     | 27798 RPM         | ok
+JBOG_Inlet_Temp  | 32 degrees C      | ok
+PCIe0_Temp       | 48 degrees C      | ok
+PCIe1_Temp       | 45 degrees C      | ok
+PCIe2_Temp       | 45 degrees C      | ok
+PCIe3_Temp       | 45 degrees C      | ok
+PCIe4_Temp       | 46 degrees C      | ok
+PCIe5_Temp       | 47 degrees C      | ok
+PCIe6_Temp       | 47 degrees C      | ok
+PCIe7_Temp       | 45 degrees C      | ok
+PCIe8_Temp       | 45 degrees C      | ok
+PCIe9_Temp       | 47 degrees C      | ok
+PCIe10_Temp      | 46 degrees C      | ok
+PCIe11_Temp      | 48 degrees C      | ok
+PCIe12_Temp      | 48 degrees C      | ok
+PCIe13_Temp      | 47 degrees C      | ok
+PCIe14_Temp      | 46 degrees C      | ok
+PCIe15_Temp      | 45 degrees C      | ok
+FAN8_F_Speed     | 11970 RPM         | ok
+FAN8_R_Speed     | 10773 RPM         | ok
+FAN9_F_Speed     | 12084 RPM         | ok
+FAN9_R_Speed     | 10716 RPM         | ok
+FAN10_F_Speed    | 11343 RPM         | ok
+FAN10_R_Speed    | 11400 RPM         | ok
+FAN11_F_Speed    | 12654 RPM         | ok
+FAN11_R_Speed    | 11514 RPM         | ok
+FAN12_F_Speed    | 12654 RPM         | ok
+FAN12_R_Speed    | 11514 RPM         | ok
+PSU2_PIN         | 270 Watts         | ok
+PSU3_PIN         | 288 Watts         | ok
+PSU4_PIN         | 270 Watts         | ok
+PSU5_PIN         | 270 Watts         | ok
+PSU2_POUT        | 234 Watts         | ok
+PSU3_POUT        | 246 Watts         | ok
+PSU4_POUT        | 234 Watts         | ok
+PSU5_POUT        | 222 Watts         | ok
+Inlet_Temp       | 32 degrees C      | ok
+Outlet_Temp      | 45 degrees C      | ok
+CPU0_DTS         | 51 degrees C      | ok
+CPU1_DTS         | 52 degrees C      | ok
+CPU2_DTS         | 51 degrees C      | ok
+CPU3_DTS         | 49 degrees C      | ok
+CPU0_DDR_DIMM_T  | 44 degrees C      | ok
+CPU1_DDR_DIMM_T  | 40 degrees C      | ok
+CPU2_DDR_DIMM_T  | 40 degrees C      | ok
+CPU3_DDR_DIMM_T  | 43 degrees C      | ok
+CPU0_Vcore_T     | 55 degrees C      | ok
+CPU1_Vcore_T     | 54 degrees C      | ok
+CPU2_Vcore_T     | 55 degrees C      | ok
+CPU3_Vcore_T     | 55 degrees C      | ok
+PCH_Temp         | 50 degrees C      | ok
+OCPNIC_Temp      | 60 degrees C      | ok
+OCPNIC_OPT_T     | 49 degrees C      | ok
+PSU0_Inlet_T     | 40 degrees C      | ok
+PSU1_Inlet_T     | 41 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 600 Watts         | ok
+FAN_Power        | 190 Watts         | ok
+CPU_Power        | 250 Watts         | ok
+Memory_Power     | 88 Watts          | ok
+PSU0_PIN         | 324 Watts         | ok
+PSU1_PIN         | 312 Watts         | ok
+PSU0_POUT        | 306 Watts         | ok
+PSU1_POUT        | 288 Watts         | ok
+FAN0_F_Speed     | 27306 RPM         | ok
+FAN0_R_Speed     | 23493 RPM         | ok
+FAN1_F_Speed     | 26937 RPM         | ok
+FAN1_R_Speed     | 23001 RPM         | ok
+FAN2_F_Speed     | 26199 RPM         | ok
+FAN2_R_Speed     | 22509 RPM         | ok
+FAN3_F_Speed     | 26076 RPM         | ok
+FAN3_R_Speed     | 22632 RPM         | ok
+FAN4_F_Speed     | 25830 RPM         | ok
+FAN4_R_Speed     | 22263 RPM         | ok
+FAN5_F_Speed     | 25953 RPM         | ok
+FAN5_R_Speed     | 22632 RPM         | ok
+FAN6_F_Speed     | 25830 RPM         | ok
+FAN6_R_Speed     | 22017 RPM         | ok
+FAN7_F_Speed     | 25830 RPM         | ok
+FAN7_R_Speed     | 22263 RPM         | ok
+JBOG_Inlet_Temp  | 32 degrees C      | ok
+PCIe0_Temp       | 50 degrees C      | ok
+PCIe1_Temp       | 47 degrees C      | ok
+PCIe2_Temp       | 47 degrees C      | ok
+PCIe3_Temp       | 47 degrees C      | ok
+PCIe4_Temp       | 48 degrees C      | ok
+PCIe5_Temp       | 49 degrees C      | ok
+PCIe6_Temp       | 49 degrees C      | ok
+PCIe7_Temp       | 47 degrees C      | ok
+PCIe8_Temp       | 48 degrees C      | ok
+PCIe9_Temp       | 48 degrees C      | ok
+PCIe10_Temp      | 48 degrees C      | ok
+PCIe11_Temp      | 49 degrees C      | ok
+PCIe12_Temp      | 50 degrees C      | ok
+PCIe13_Temp      | 49 degrees C      | ok
+PCIe14_Temp      | 48 degrees C      | ok
+PCIe15_Temp      | 46 degrees C      | ok
+FAN8_F_Speed     | 8037 RPM          | ok
+FAN8_R_Speed     | 7410 RPM          | ok
+FAN9_F_Speed     | 8208 RPM          | ok
+FAN9_R_Speed     | 7410 RPM          | ok
+FAN10_F_Speed    | 8208 RPM          | ok
+FAN10_R_Speed    | 7524 RPM          | ok
+FAN11_F_Speed    | 7695 RPM          | ok
+FAN11_R_Speed    | 7182 RPM          | ok
+FAN12_F_Speed    | 7809 RPM          | ok
+FAN12_R_Speed    | 7239 RPM          | ok
+PSU2_PIN         | 234 Watts         | ok
+PSU3_PIN         | 246 Watts         | ok
+PSU4_PIN         | 234 Watts         | ok
+PSU5_PIN         | 228 Watts         | ok
+PSU2_POUT        | 198 Watts         | ok
+PSU3_POUT        | 210 Watts         | ok
+PSU4_POUT        | 198 Watts         | ok
+PSU5_POUT        | 186 Watts         | ok
+Inlet_Temp       | 31 degrees C      | ok
+Outlet_Temp      | 43 degrees C      | ok
+CPU0_DTS         | 54 degrees C      | ok
+CPU1_DTS         | 52 degrees C      | ok
+CPU2_DTS         | 54 degrees C      | ok
+CPU3_DTS         | 55 degrees C      | ok
+CPU0_DDR_DIMM_T  | 43 degrees C      | ok
+CPU1_DDR_DIMM_T  | 39 degrees C      | ok
+CPU2_DDR_DIMM_T  | 39 degrees C      | ok
+CPU3_DDR_DIMM_T  | 41 degrees C      | ok
+CPU0_Vcore_T     | 49 degrees C      | ok
+CPU1_Vcore_T     | 49 degrees C      | ok
+CPU2_Vcore_T     | 49 degrees C      | ok
+CPU3_Vcore_T     | 49 degrees C      | ok
+PCH_Temp         | 47 degrees C      | ok
+OCPNIC_Temp      | 61 degrees C      | ok
+OCPNIC_OPT_T     | 48 degrees C      | ok
+PSU0_Inlet_T     | 39 degrees C      | ok
+PSU1_Inlet_T     | 40 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 480 Watts         | ok
+FAN_Power        | 62 Watts          | ok
+CPU_Power        | 250 Watts         | ok
+Memory_Power     | 88 Watts          | ok
+PSU0_PIN         | 264 Watts         | ok
+PSU1_PIN         | 252 Watts         | ok
+PSU0_POUT        | 246 Watts         | ok
+PSU1_POUT        | 228 Watts         | ok
+FAN0_F_Speed     | 20418 RPM         | ok
+FAN0_R_Speed     | 17589 RPM         | ok
+FAN1_F_Speed     | 20418 RPM         | ok
+FAN1_R_Speed     | 17589 RPM         | ok
+FAN2_F_Speed     | 17835 RPM         | ok
+FAN2_R_Speed     | 15129 RPM         | ok
+FAN3_F_Speed     | 17835 RPM         | ok
+FAN3_R_Speed     | 15252 RPM         | ok
+FAN4_F_Speed     | 17589 RPM         | ok
+FAN4_R_Speed     | 15252 RPM         | ok
+FAN5_F_Speed     | 17220 RPM         | ok
+FAN5_R_Speed     | 14760 RPM         | ok
+FAN6_F_Speed     | 17343 RPM         | ok
+FAN6_R_Speed     | 14637 RPM         | ok
+FAN7_F_Speed     | 16974 RPM         | ok
+FAN7_R_Speed     | 14637 RPM         | ok
+JBOG_Inlet_Temp  | 31 degrees C      | ok
+PCIe0_Temp       | 52 degrees C      | ok
+PCIe1_Temp       | 49 degrees C      | ok
+PCIe2_Temp       | 49 degrees C      | ok
+PCIe3_Temp       | 49 degrees C      | ok
+PCIe4_Temp       | 50 degrees C      | ok
+PCIe5_Temp       | 51 degrees C      | ok
+PCIe6_Temp       | 51 degrees C      | ok
+PCIe7_Temp       | 48 degrees C      | ok
+PCIe8_Temp       | 49 degrees C      | ok
+PCIe9_Temp       | 50 degrees C      | ok
+PCIe10_Temp      | 49 degrees C      | ok
+PCIe11_Temp      | 51 degrees C      | ok
+PCIe12_Temp      | 51 degrees C      | ok
+PCIe13_Temp      | 51 degrees C      | ok
+PCIe14_Temp      | 50 degrees C      | ok
+PCIe15_Temp      | 48 degrees C      | ok
+FAN8_F_Speed     | 5358 RPM          | ok
+FAN8_R_Speed     | 5130 RPM          | ok
+FAN9_F_Speed     | 5358 RPM          | ok
+FAN9_R_Speed     | 5130 RPM          | ok
+FAN10_F_Speed    | 5358 RPM          | ok
+FAN10_R_Speed    | 5130 RPM          | ok
+FAN11_F_Speed    | 5358 RPM          | ok
+FAN11_R_Speed    | 5130 RPM          | ok
+FAN12_F_Speed    | 5472 RPM          | ok
+FAN12_R_Speed    | 5130 RPM          | ok
+PSU2_PIN         | 222 Watts         | ok
+PSU3_PIN         | 246 Watts         | ok
+PSU4_PIN         | 234 Watts         | ok
+PSU5_PIN         | 222 Watts         | ok
+PSU2_POUT        | 198 Watts         | ok
+PSU3_POUT        | 210 Watts         | ok
+PSU4_POUT        | 198 Watts         | ok
+PSU5_POUT        | 180 Watts         | ok
+Inlet_Temp       | 31 degrees C      | ok
+Outlet_Temp      | 43 degrees C      | ok
+CPU0_DTS         | 54 degrees C      | ok
+CPU1_DTS         | 55 degrees C      | ok
+CPU2_DTS         | 53 degrees C      | ok
+CPU3_DTS         | 51 degrees C      | ok
+CPU0_DDR_DIMM_T  | 44 degrees C      | ok
+CPU1_DDR_DIMM_T  | 40 degrees C      | ok
+CPU2_DDR_DIMM_T  | 39 degrees C      | ok
+CPU3_DDR_DIMM_T  | 43 degrees C      | ok
+CPU0_Vcore_T     | 48 degrees C      | ok
+CPU1_Vcore_T     | 48 degrees C      | ok
+CPU2_Vcore_T     | 48 degrees C      | ok
+CPU3_Vcore_T     | 48 degrees C      | ok
+PCH_Temp         | 48 degrees C      | ok
+OCPNIC_Temp      | 63 degrees C      | ok
+OCPNIC_OPT_T     | 49 degrees C      | ok
+PSU0_Inlet_T     | 39 degrees C      | ok
+PSU1_Inlet_T     | 40 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 435 Watts         | ok
+FAN_Power        | 24 Watts          | ok
+CPU_Power        | 250 Watts         | ok
+Memory_Power     | 90 Watts          | ok
+PSU0_PIN         | 246 Watts         | ok
+PSU1_PIN         | 234 Watts         | ok
+PSU0_POUT        | 228 Watts         | ok
+PSU1_POUT        | 216 Watts         | ok
+FAN0_F_Speed     | 13038 RPM         | ok
+FAN0_R_Speed     | 11193 RPM         | ok
+FAN1_F_Speed     | 13161 RPM         | ok
+FAN1_R_Speed     | 11316 RPM         | ok
+FAN2_F_Speed     | 11931 RPM         | ok
+FAN2_R_Speed     | 10086 RPM         | ok
+FAN3_F_Speed     | 11685 RPM         | ok
+FAN3_R_Speed     | 10086 RPM         | ok
+FAN4_F_Speed     | 11685 RPM         | ok
+FAN4_R_Speed     | 9963 RPM          | ok
+FAN5_F_Speed     | 11808 RPM         | ok
+FAN5_R_Speed     | 10086 RPM         | ok
+FAN6_F_Speed     | 11808 RPM         | ok
+FAN6_R_Speed     | 10086 RPM         | ok
+FAN7_F_Speed     | 11685 RPM         | ok
+FAN7_R_Speed     | 10086 RPM         | ok
+JBOG_Inlet_Temp  | 30 degrees C      | ok
+PCIe0_Temp       | 56 degrees C      | ok
+PCIe1_Temp       | 52 degrees C      | ok
+PCIe2_Temp       | 52 degrees C      | ok
+PCIe3_Temp       | 52 degrees C      | ok
+PCIe4_Temp       | 53 degrees C      | ok
+PCIe5_Temp       | 55 degrees C      | ok
+PCIe6_Temp       | 55 degrees C      | ok
+PCIe7_Temp       | 51 degrees C      | ok
+PCIe8_Temp       | 52 degrees C      | ok
+PCIe9_Temp       | 53 degrees C      | ok
+PCIe10_Temp      | 52 degrees C      | ok
+PCIe11_Temp      | 55 degrees C      | ok
+PCIe12_Temp      | 55 degrees C      | ok
+PCIe13_Temp      | 53 degrees C      | ok
+PCIe14_Temp      | 53 degrees C      | ok
+PCIe15_Temp      | 51 degrees C      | ok
+FAN8_F_Speed     | 5358 RPM          | ok
+FAN8_R_Speed     | 4845 RPM          | ok
+FAN9_F_Speed     | 5358 RPM          | ok
+FAN9_R_Speed     | 4845 RPM          | ok
+FAN10_F_Speed    | 5358 RPM          | ok
+FAN10_R_Speed    | 4845 RPM          | ok
+FAN11_F_Speed    | 5358 RPM          | ok
+FAN11_R_Speed    | 4845 RPM          | ok
+FAN12_F_Speed    | 5358 RPM          | ok
+FAN12_R_Speed    | 4845 RPM          | ok
+PSU2_PIN         | 234 Watts         | ok
+PSU3_PIN         | 246 Watts         | ok
+PSU4_PIN         | 234 Watts         | ok
+PSU5_PIN         | 222 Watts         | ok
+PSU2_POUT        | 198 Watts         | ok
+PSU3_POUT        | 210 Watts         | ok
+PSU4_POUT        | 198 Watts         | ok
+PSU5_POUT        | 180 Watts         | ok
+Inlet_Temp       | 31 degrees C      | ok
+Outlet_Temp      | 43 degrees C      | ok
+CPU0_DTS         | 53 degrees C      | ok
+CPU1_DTS         | 54 degrees C      | ok
+CPU2_DTS         | 52 degrees C      | ok
+CPU3_DTS         | 49 degrees C      | ok
+CPU0_DDR_DIMM_T  | 45 degrees C      | ok
+CPU1_DDR_DIMM_T  | 40 degrees C      | ok
+CPU2_DDR_DIMM_T  | 40 degrees C      | ok
+CPU3_DDR_DIMM_T  | 44 degrees C      | ok
+CPU0_Vcore_T     | 47 degrees C      | ok
+CPU1_Vcore_T     | 48 degrees C      | ok
+CPU2_Vcore_T     | 48 degrees C      | ok
+CPU3_Vcore_T     | 47 degrees C      | ok
+PCH_Temp         | 48 degrees C      | ok
+OCPNIC_Temp      | 66 degrees C      | ok
+OCPNIC_OPT_T     | 51 degrees C      | ok
+PSU0_Inlet_T     | 40 degrees C      | ok
+PSU1_Inlet_T     | 40 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 435 Watts         | ok
+FAN_Power        | 22 Watts          | ok
+CPU_Power        | 250 Watts         | ok
+Memory_Power     | 88 Watts          | ok
+PSU0_PIN         | 246 Watts         | ok
+PSU1_PIN         | 234 Watts         | ok
+PSU0_POUT        | 222 Watts         | ok
+PSU1_POUT        | 210 Watts         | ok
+FAN0_F_Speed     | 11193 RPM         | ok
+FAN0_R_Speed     | 9471 RPM          | ok
+FAN1_F_Speed     | 11193 RPM         | ok
+FAN1_R_Speed     | 9717 RPM          | ok
+FAN2_F_Speed     | 11316 RPM         | ok
+FAN2_R_Speed     | 9594 RPM          | ok
+FAN3_F_Speed     | 11070 RPM         | ok
+FAN3_R_Speed     | 9594 RPM          | ok
+FAN4_F_Speed     | 11193 RPM         | ok
+FAN4_R_Speed     | 9471 RPM          | ok
+FAN5_F_Speed     | 11193 RPM         | ok
+FAN5_R_Speed     | 9594 RPM          | ok
+FAN6_F_Speed     | 11193 RPM         | ok
+FAN6_R_Speed     | 9594 RPM          | ok
+FAN7_F_Speed     | 11070 RPM         | ok
+FAN7_R_Speed     | 9471 RPM          | ok
+JBOG_Inlet_Temp  | 29 degrees C      | ok
+PCIe0_Temp       | 57 degrees C      | ok
+PCIe1_Temp       | 54 degrees C      | ok
+PCIe2_Temp       | 54 degrees C      | ok
+PCIe3_Temp       | 53 degrees C      | ok
+PCIe4_Temp       | 55 degrees C      | ok
+PCIe5_Temp       | 57 degrees C      | ok
+PCIe6_Temp       | 56 degrees C      | ok
+PCIe7_Temp       | 52 degrees C      | ok
+PCIe8_Temp       | 53 degrees C      | ok
+PCIe9_Temp       | 54 degrees C      | ok
+PCIe10_Temp      | 53 degrees C      | ok
+PCIe11_Temp      | 57 degrees C      | ok
+PCIe12_Temp      | 56 degrees C      | ok
+PCIe13_Temp      | 55 degrees C      | ok
+PCIe14_Temp      | 55 degrees C      | ok
+PCIe15_Temp      | 52 degrees C      | ok
+FAN8_F_Speed     | 5130 RPM          | ok
+FAN8_R_Speed     | 4845 RPM          | ok
+FAN9_F_Speed     | 5130 RPM          | ok
+FAN9_R_Speed     | 4845 RPM          | ok
+FAN10_F_Speed    | 5130 RPM          | ok
+FAN10_R_Speed    | 4845 RPM          | ok
+FAN11_F_Speed    | 5130 RPM          | ok
+FAN11_R_Speed    | 4845 RPM          | ok
+FAN12_F_Speed    | 5130 RPM          | ok
+FAN12_R_Speed    | 4845 RPM          | ok
+PSU2_PIN         | 234 Watts         | ok
+PSU3_PIN         | 246 Watts         | ok
+PSU4_PIN         | 234 Watts         | ok
+PSU5_PIN         | 234 Watts         | ok
+PSU2_POUT        | 198 Watts         | ok
+PSU3_POUT        | 210 Watts         | ok
+PSU4_POUT        | 198 Watts         | ok
+PSU5_POUT        | 198 Watts         | ok
+Inlet_Temp       | 30 degrees C      | ok
+Outlet_Temp      | 44 degrees C      | ok
+CPU0_DTS         | 39 degrees C      | ok
+CPU1_DTS         | 39 degrees C      | ok
+CPU2_DTS         | 37 degrees C      | ok
+CPU3_DTS         | 38 degrees C      | ok
+CPU0_DDR_DIMM_T  | 46 degrees C      | ok
+CPU1_DDR_DIMM_T  | 41 degrees C      | ok
+CPU2_DDR_DIMM_T  | 40 degrees C      | ok
+CPU3_DDR_DIMM_T  | 45 degrees C      | ok
+CPU0_Vcore_T     | 52 degrees C      | ok
+CPU1_Vcore_T     | 52 degrees C      | ok
+CPU2_Vcore_T     | 54 degrees C      | ok
+CPU3_Vcore_T     | 54 degrees C      | ok
+PCH_Temp         | 48 degrees C      | ok
+OCPNIC_Temp      | 67 degrees C      | ok
+OCPNIC_OPT_T     | 52 degrees C      | ok
+PSU0_Inlet_T     | 39 degrees C      | ok
+PSU1_Inlet_T     | 39 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 1725 Watts        | ok
+FAN_Power        | 234 Watts         | ok
+CPU_Power        | 1060 Watts        | ok
+Memory_Power     | 176 Watts         | ok
+PSU0_PIN         | 954 Watts         | ok
+PSU1_PIN         | 912 Watts         | ok
+PSU0_POUT        | 888 Watts         | ok
+PSU1_POUT        | 858 Watts         | ok
+FAN0_F_Speed     | 29151 RPM         | ok
+FAN0_R_Speed     | 24846 RPM         | ok
+FAN1_F_Speed     | 29274 RPM         | ok
+FAN1_R_Speed     | 24969 RPM         | ok
+FAN2_F_Speed     | 29151 RPM         | ok
+FAN2_R_Speed     | 25461 RPM         | ok
+FAN3_F_Speed     | 29643 RPM         | ok
+FAN3_R_Speed     | 25461 RPM         | ok
+FAN4_F_Speed     | 31365 RPM         | ok
+FAN4_R_Speed     | 27798 RPM         | ok
+FAN5_F_Speed     | 31365 RPM         | ok
+FAN5_R_Speed     | 27429 RPM         | ok
+FAN6_F_Speed     | 31365 RPM         | ok
+FAN6_R_Speed     | 27552 RPM         | ok
+FAN7_F_Speed     | 31365 RPM         | ok
+FAN7_R_Speed     | 27921 RPM         | ok
+JBOG_Inlet_Temp  | 32 degrees C      | ok
+PCIe0_Temp       | 50 degrees C      | ok
+PCIe1_Temp       | 47 degrees C      | ok
+PCIe2_Temp       | 47 degrees C      | ok
+PCIe3_Temp       | 47 degrees C      | ok
+PCIe4_Temp       | 48 degrees C      | ok
+PCIe5_Temp       | 49 degrees C      | ok
+PCIe6_Temp       | 49 degrees C      | ok
+PCIe7_Temp       | 46 degrees C      | ok
+PCIe8_Temp       | 47 degrees C      | ok
+PCIe9_Temp       | 48 degrees C      | ok
+PCIe10_Temp      | 47 degrees C      | ok
+PCIe11_Temp      | 49 degrees C      | ok
+PCIe12_Temp      | 50 degrees C      | ok
+PCIe13_Temp      | 49 degrees C      | ok
+PCIe14_Temp      | 49 degrees C      | ok
+PCIe15_Temp      | 47 degrees C      | ok
+FAN8_F_Speed     | 14079 RPM         | ok
+FAN8_R_Speed     | 12825 RPM         | ok
+FAN9_F_Speed     | 14364 RPM         | ok
+FAN9_R_Speed     | 12939 RPM         | ok
+FAN10_F_Speed    | 14364 RPM         | ok
+FAN10_R_Speed    | 13851 RPM         | ok
+FAN11_F_Speed    | 14364 RPM         | ok
+FAN11_R_Speed    | 13851 RPM         | ok
+FAN12_F_Speed    | 14364 RPM         | ok
+FAN12_R_Speed    | 13851 RPM         | ok
+PSU2_PIN         | 300 Watts         | ok
+PSU3_PIN         | 324 Watts         | ok
+PSU4_PIN         | 300 Watts         | ok
+PSU5_PIN         | 300 Watts         | ok
+PSU2_POUT        | 258 Watts         | ok
+PSU3_POUT        | 276 Watts         | ok
+PSU4_POUT        | 258 Watts         | ok
+PSU5_POUT        | 246 Watts         | ok
+Inlet_Temp       | 32 degrees C      | ok
+Outlet_Temp      | 45 degrees C      | ok
+CPU0_DTS         | 13 degrees C      | ok
+CPU1_DTS         | 14 degrees C      | ok
+CPU2_DTS         | 9 degrees C       | ok
+CPU3_DTS         | 13 degrees C      | ok
+CPU0_DDR_DIMM_T  | 47 degrees C      | ok
+CPU1_DDR_DIMM_T  | 41 degrees C      | ok
+CPU2_DDR_DIMM_T  | 41 degrees C      | ok
+CPU3_DDR_DIMM_T  | 46 degrees C      | ok
+CPU0_Vcore_T     | 67 degrees C      | ok
+CPU1_Vcore_T     | 67 degrees C      | ok
+CPU2_Vcore_T     | 69 degrees C      | ok
+CPU3_Vcore_T     | 68 degrees C      | ok
+PCH_Temp         | 48 degrees C      | ok
+OCPNIC_Temp      | 60 degrees C      | ok
+OCPNIC_OPT_T     | 50 degrees C      | ok
+PSU0_Inlet_T     | 40 degrees C      | ok
+PSU1_Inlet_T     | 41 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 1800 Watts        | ok
+FAN_Power        | 322 Watts         | ok
+CPU_Power        | 1060 Watts        | ok
+Memory_Power     | 176 Watts         | ok
+PSU0_PIN         | 996 Watts         | ok
+PSU1_PIN         | 948 Watts         | ok
+PSU0_POUT        | 924 Watts         | ok
+PSU1_POUT        | 888 Watts         | ok
+FAN0_F_Speed     | 31365 RPM         | ok
+FAN0_R_Speed     | 27798 RPM         | ok
+FAN1_F_Speed     | 31365 RPM         | ok
+FAN1_R_Speed     | 27798 RPM         | ok
+FAN2_F_Speed     | 31365 RPM         | ok
+FAN2_R_Speed     | 27798 RPM         | ok
+FAN3_F_Speed     | 31365 RPM         | ok
+FAN3_R_Speed     | 27675 RPM         | ok
+FAN4_F_Speed     | 31365 RPM         | ok
+FAN4_R_Speed     | 27798 RPM         | ok
+FAN5_F_Speed     | 31365 RPM         | ok
+FAN5_R_Speed     | 27429 RPM         | ok
+FAN6_F_Speed     | 31365 RPM         | ok
+FAN6_R_Speed     | 27552 RPM         | ok
+FAN7_F_Speed     | 31365 RPM         | ok
+FAN7_R_Speed     | 27921 RPM         | ok
+JBOG_Inlet_Temp  | 32 degrees C      | ok
+PCIe0_Temp       | 47 degrees C      | ok
+PCIe1_Temp       | 45 degrees C      | ok
+PCIe2_Temp       | 45 degrees C      | ok
+PCIe3_Temp       | 45 degrees C      | ok
+PCIe4_Temp       | 46 degrees C      | ok
+PCIe5_Temp       | 47 degrees C      | ok
+PCIe6_Temp       | 47 degrees C      | ok
+PCIe7_Temp       | 45 degrees C      | ok
+PCIe8_Temp       | 45 degrees C      | ok
+PCIe9_Temp       | 47 degrees C      | ok
+PCIe10_Temp      | 46 degrees C      | ok
+PCIe11_Temp      | 47 degrees C      | ok
+PCIe12_Temp      | 47 degrees C      | ok
+PCIe13_Temp      | 47 degrees C      | ok
+PCIe14_Temp      | 46 degrees C      | ok
+PCIe15_Temp      | 45 degrees C      | ok
+FAN8_F_Speed     | 14079 RPM         | ok
+FAN8_R_Speed     | 13566 RPM         | ok
+FAN9_F_Speed     | 14364 RPM         | ok
+FAN9_R_Speed     | 13851 RPM         | ok
+FAN10_F_Speed    | 14364 RPM         | ok
+FAN10_R_Speed    | 13851 RPM         | ok
+FAN11_F_Speed    | 14364 RPM         | ok
+FAN11_R_Speed    | 13851 RPM         | ok
+FAN12_F_Speed    | 14364 RPM         | ok
+FAN12_R_Speed    | 13851 RPM         | ok
+PSU2_PIN         | 300 Watts         | ok
+PSU3_PIN         | 312 Watts         | ok
+PSU4_PIN         | 300 Watts         | ok
+PSU5_PIN         | 300 Watts         | ok
+PSU2_POUT        | 258 Watts         | ok
+PSU3_POUT        | 276 Watts         | ok
+PSU4_POUT        | 258 Watts         | ok
+PSU5_POUT        | 246 Watts         | ok
+Inlet_Temp       | 32 degrees C      | ok
+Outlet_Temp      | 46 degrees C      | ok
+CPU0_DTS         | 27 degrees C      | ok
+CPU1_DTS         | 27 degrees C      | ok
+CPU2_DTS         | 24 degrees C      | ok
+CPU3_DTS         | 24 degrees C      | ok
+CPU0_DDR_DIMM_T  | 48 degrees C      | ok
+CPU1_DDR_DIMM_T  | 42 degrees C      | ok
+CPU2_DDR_DIMM_T  | 42 degrees C      | ok
+CPU3_DDR_DIMM_T  | 46 degrees C      | ok
+CPU0_Vcore_T     | 68 degrees C      | ok
+CPU1_Vcore_T     | 67 degrees C      | ok
+CPU2_Vcore_T     | 68 degrees C      | ok
+CPU3_Vcore_T     | 68 degrees C      | ok
+PCH_Temp         | 50 degrees C      | ok
+OCPNIC_Temp      | 60 degrees C      | ok
+OCPNIC_OPT_T     | 49 degrees C      | ok
+PSU0_Inlet_T     | 41 degrees C      | ok
+PSU1_Inlet_T     | 41 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 765 Watts         | ok
+FAN_Power        | 322 Watts         | ok
+CPU_Power        | 255 Watts         | ok
+Memory_Power     | 90 Watts          | ok
+PSU0_PIN         | 414 Watts         | ok
+PSU1_PIN         | 396 Watts         | ok
+PSU0_POUT        | 390 Watts         | ok
+PSU1_POUT        | 360 Watts         | ok
+FAN0_F_Speed     | 31365 RPM         | ok
+FAN0_R_Speed     | 27921 RPM         | ok
+FAN1_F_Speed     | 31365 RPM         | ok
+FAN1_R_Speed     | 28044 RPM         | ok
+FAN2_F_Speed     | 31365 RPM         | ok
+FAN2_R_Speed     | 28167 RPM         | ok
+FAN3_F_Speed     | 31365 RPM         | ok
+FAN3_R_Speed     | 27429 RPM         | ok
+FAN4_F_Speed     | 31365 RPM         | ok
+FAN4_R_Speed     | 27183 RPM         | ok
+FAN5_F_Speed     | 31365 RPM         | ok
+FAN5_R_Speed     | 27183 RPM         | ok
+FAN6_F_Speed     | 30996 RPM         | ok
+FAN6_R_Speed     | 26445 RPM         | ok
+FAN7_F_Speed     | 30873 RPM         | ok
+FAN7_R_Speed     | 26568 RPM         | ok
+JBOG_Inlet_Temp  | 32 degrees C      | ok
+PCIe0_Temp       | 49 degrees C      | ok
+PCIe1_Temp       | 46 degrees C      | ok
+PCIe2_Temp       | 46 degrees C      | ok
+PCIe3_Temp       | 46 degrees C      | ok
+PCIe4_Temp       | 47 degrees C      | ok
+PCIe5_Temp       | 48 degrees C      | ok
+PCIe6_Temp       | 48 degrees C      | ok
+PCIe7_Temp       | 46 degrees C      | ok
+PCIe8_Temp       | 47 degrees C      | ok
+PCIe9_Temp       | 48 degrees C      | ok
+PCIe10_Temp      | 47 degrees C      | ok
+PCIe11_Temp      | 48 degrees C      | ok
+PCIe12_Temp      | 49 degrees C      | ok
+PCIe13_Temp      | 48 degrees C      | ok
+PCIe14_Temp      | 47 degrees C      | ok
+PCIe15_Temp      | 46 degrees C      | ok
+FAN8_F_Speed     | 9576 RPM          | ok
+FAN8_R_Speed     | 8835 RPM          | ok
+FAN9_F_Speed     | 9462 RPM          | ok
+FAN9_R_Speed     | 8835 RPM          | ok
+FAN10_F_Speed    | 10032 RPM         | ok
+FAN10_R_Speed    | 9519 RPM          | ok
+FAN11_F_Speed    | 9747 RPM          | ok
+FAN11_R_Speed    | 9234 RPM          | ok
+FAN12_F_Speed    | 9861 RPM          | ok
+FAN12_R_Speed    | 9291 RPM          | ok
+PSU2_PIN         | 246 Watts         | ok
+PSU3_PIN         | 258 Watts         | ok
+PSU4_PIN         | 246 Watts         | ok
+PSU5_PIN         | 234 Watts         | ok
+PSU2_POUT        | 210 Watts         | ok
+PSU3_POUT        | 222 Watts         | ok
+PSU4_POUT        | 210 Watts         | ok
+PSU5_POUT        | 198 Watts         | ok
+Inlet_Temp       | 32 degrees C      | ok
+Outlet_Temp      | 44 degrees C      | ok
+CPU0_DTS         | 53 degrees C      | ok
+CPU1_DTS         | 50 degrees C      | ok
+CPU2_DTS         | 53 degrees C      | ok
+CPU3_DTS         | 54 degrees C      | ok
+CPU0_DDR_DIMM_T  | 44 degrees C      | ok
+CPU1_DDR_DIMM_T  | 40 degrees C      | ok
+CPU2_DDR_DIMM_T  | 39 degrees C      | ok
+CPU3_DDR_DIMM_T  | 42 degrees C      | ok
+CPU0_Vcore_T     | 52 degrees C      | ok
+CPU1_Vcore_T     | 52 degrees C      | ok
+CPU2_Vcore_T     | 52 degrees C      | ok
+CPU3_Vcore_T     | 52 degrees C      | ok
+PCH_Temp         | 48 degrees C      | ok
+OCPNIC_Temp      | 60 degrees C      | ok
+OCPNIC_OPT_T     | 49 degrees C      | ok
+PSU0_Inlet_T     | 39 degrees C      | ok
+PSU1_Inlet_T     | 40 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 555 Watts         | ok
+FAN_Power        | 132 Watts         | ok
+CPU_Power        | 250 Watts         | ok
+Memory_Power     | 88 Watts          | ok
+PSU0_PIN         | 306 Watts         | ok
+PSU1_PIN         | 288 Watts         | ok
+PSU0_POUT        | 276 Watts         | ok
+PSU1_POUT        | 270 Watts         | ok
+FAN0_F_Speed     | 27060 RPM         | ok
+FAN0_R_Speed     | 23124 RPM         | ok
+FAN1_F_Speed     | 27060 RPM         | ok
+FAN1_R_Speed     | 23247 RPM         | ok
+FAN2_F_Speed     | 24108 RPM         | ok
+FAN2_R_Speed     | 20541 RPM         | ok
+FAN3_F_Speed     | 23985 RPM         | ok
+FAN3_R_Speed     | 20664 RPM         | ok
+FAN4_F_Speed     | 23862 RPM         | ok
+FAN4_R_Speed     | 20541 RPM         | ok
+FAN5_F_Speed     | 23985 RPM         | ok
+FAN5_R_Speed     | 20664 RPM         | ok
+FAN6_F_Speed     | 23001 RPM         | ok
+FAN6_R_Speed     | 19803 RPM         | ok
+FAN7_F_Speed     | 23247 RPM         | ok
+FAN7_R_Speed     | 19926 RPM         | ok
+JBOG_Inlet_Temp  | 31 degrees C      | ok
+PCIe0_Temp       | 51 degrees C      | ok
+PCIe1_Temp       | 48 degrees C      | ok
+PCIe2_Temp       | 48 degrees C      | ok
+PCIe3_Temp       | 47 degrees C      | ok
+PCIe4_Temp       | 48 degrees C      | ok
+PCIe5_Temp       | 50 degrees C      | ok
+PCIe6_Temp       | 50 degrees C      | ok
+PCIe7_Temp       | 47 degrees C      | ok
+PCIe8_Temp       | 48 degrees C      | ok
+PCIe9_Temp       | 49 degrees C      | ok
+PCIe10_Temp      | 48 degrees C      | ok
+PCIe11_Temp      | 50 degrees C      | ok
+PCIe12_Temp      | 50 degrees C      | ok
+PCIe13_Temp      | 49 degrees C      | ok
+PCIe14_Temp      | 49 degrees C      | ok
+PCIe15_Temp      | 47 degrees C      | ok
+FAN8_F_Speed     | 7524 RPM          | ok
+FAN8_R_Speed     | 7011 RPM          | ok
+FAN9_F_Speed     | 7695 RPM          | ok
+FAN9_R_Speed     | 7011 RPM          | ok
+FAN10_F_Speed    | 7752 RPM          | ok
+FAN10_R_Speed    | 7239 RPM          | ok
+FAN11_F_Speed    | 7239 RPM          | ok
+FAN11_R_Speed    | 6669 RPM          | ok
+FAN12_F_Speed    | 7182 RPM          | ok
+FAN12_R_Speed    | 6669 RPM          | ok
+PSU2_PIN         | 234 Watts         | ok
+PSU3_PIN         | 246 Watts         | ok
+PSU4_PIN         | 234 Watts         | ok
+PSU5_PIN         | 222 Watts         | ok
+PSU2_POUT        | 198 Watts         | ok
+PSU3_POUT        | 210 Watts         | ok
+PSU4_POUT        | 198 Watts         | ok
+PSU5_POUT        | 186 Watts         | ok
+Inlet_Temp       | 31 degrees C      | ok
+Outlet_Temp      | 43 degrees C      | ok
+CPU0_DTS         | 54 degrees C      | ok
+CPU1_DTS         | 51 degrees C      | ok
+CPU2_DTS         | 54 degrees C      | ok
+CPU3_DTS         | 55 degrees C      | ok
+CPU0_DDR_DIMM_T  | 43 degrees C      | ok
+CPU1_DDR_DIMM_T  | 39 degrees C      | ok
+CPU2_DDR_DIMM_T  | 39 degrees C      | ok
+CPU3_DDR_DIMM_T  | 42 degrees C      | ok
+CPU0_Vcore_T     | 49 degrees C      | ok
+CPU1_Vcore_T     | 49 degrees C      | ok
+CPU2_Vcore_T     | 49 degrees C      | ok
+CPU3_Vcore_T     | 49 degrees C      | ok
+PCH_Temp         | 47 degrees C      | ok
+OCPNIC_Temp      | 61 degrees C      | ok
+OCPNIC_OPT_T     | 49 degrees C      | ok
+PSU0_Inlet_T     | 39 degrees C      | ok
+PSU1_Inlet_T     | 40 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 465 Watts         | ok
+FAN_Power        | 52 Watts          | ok
+CPU_Power        | 250 Watts         | ok
+Memory_Power     | 88 Watts          | ok
+PSU0_PIN         | 264 Watts         | ok
+PSU1_PIN         | 246 Watts         | ok
+PSU0_POUT        | 234 Watts         | ok
+PSU1_POUT        | 228 Watts         | ok
+FAN0_F_Speed     | 20787 RPM         | ok
+FAN0_R_Speed     | 17835 RPM         | ok
+FAN1_F_Speed     | 21033 RPM         | ok
+FAN1_R_Speed     | 17958 RPM         | ok
+FAN2_F_Speed     | 15621 RPM         | ok
+FAN2_R_Speed     | 13284 RPM         | ok
+FAN3_F_Speed     | 15498 RPM         | ok
+FAN3_R_Speed     | 13284 RPM         | ok
+FAN4_F_Speed     | 15375 RPM         | ok
+FAN4_R_Speed     | 13284 RPM         | ok
+FAN5_F_Speed     | 15375 RPM         | ok
+FAN5_R_Speed     | 13161 RPM         | ok
+FAN6_F_Speed     | 15006 RPM         | ok
+FAN6_R_Speed     | 12792 RPM         | ok
+FAN7_F_Speed     | 14883 RPM         | ok
+FAN7_R_Speed     | 12792 RPM         | ok
+JBOG_Inlet_Temp  | 30 degrees C      | ok
+PCIe0_Temp       | 54 degrees C      | ok
+PCIe1_Temp       | 51 degrees C      | ok
+PCIe2_Temp       | 51 degrees C      | ok
+PCIe3_Temp       | 50 degrees C      | ok
+PCIe4_Temp       | 52 degrees C      | ok
+PCIe5_Temp       | 53 degrees C      | ok
+PCIe6_Temp       | 53 degrees C      | ok
+PCIe7_Temp       | 49 degrees C      | ok
+PCIe8_Temp       | 51 degrees C      | ok
+PCIe9_Temp       | 51 degrees C      | ok
+PCIe10_Temp      | 51 degrees C      | ok
+PCIe11_Temp      | 53 degrees C      | ok
+PCIe12_Temp      | 53 degrees C      | ok
+PCIe13_Temp      | 52 degrees C      | ok
+PCIe14_Temp      | 52 degrees C      | ok
+PCIe15_Temp      | 50 degrees C      | ok
+FAN8_F_Speed     | 5358 RPM          | ok
+FAN8_R_Speed     | 4845 RPM          | ok
+FAN9_F_Speed     | 5358 RPM          | ok
+FAN9_R_Speed     | 4845 RPM          | ok
+FAN10_F_Speed    | 5358 RPM          | ok
+FAN10_R_Speed    | 4845 RPM          | ok
+FAN11_F_Speed    | 5358 RPM          | ok
+FAN11_R_Speed    | 4845 RPM          | ok
+FAN12_F_Speed    | 5358 RPM          | ok
+FAN12_R_Speed    | 4845 RPM          | ok
+PSU2_PIN         | 234 Watts         | ok
+PSU3_PIN         | 246 Watts         | ok
+PSU4_PIN         | 234 Watts         | ok
+PSU5_PIN         | 222 Watts         | ok
+PSU2_POUT        | 198 Watts         | ok
+PSU3_POUT        | 210 Watts         | ok
+PSU4_POUT        | 198 Watts         | ok
+PSU5_POUT        | 180 Watts         | ok
+Inlet_Temp       | 31 degrees C      | ok
+Outlet_Temp      | 43 degrees C      | ok
+CPU0_DTS         | 53 degrees C      | ok
+CPU1_DTS         | 51 degrees C      | ok
+CPU2_DTS         | 53 degrees C      | ok
+CPU3_DTS         | 54 degrees C      | ok
+CPU0_DDR_DIMM_T  | 44 degrees C      | ok
+CPU1_DDR_DIMM_T  | 40 degrees C      | ok
+CPU2_DDR_DIMM_T  | 40 degrees C      | ok
+CPU3_DDR_DIMM_T  | 43 degrees C      | ok
+CPU0_Vcore_T     | 48 degrees C      | ok
+CPU1_Vcore_T     | 48 degrees C      | ok
+CPU2_Vcore_T     | 48 degrees C      | ok
+CPU3_Vcore_T     | 47 degrees C      | ok
+PCH_Temp         | 47 degrees C      | ok
+OCPNIC_Temp      | 64 degrees C      | ok
+OCPNIC_OPT_T     | 49 degrees C      | ok
+PSU0_Inlet_T     | 39 degrees C      | ok
+PSU1_Inlet_T     | 40 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 435 Watts         | ok
+FAN_Power        | 24 Watts          | ok
+CPU_Power        | 250 Watts         | ok
+Memory_Power     | 88 Watts          | ok
+PSU0_PIN         | 246 Watts         | ok
+PSU1_PIN         | 234 Watts         | ok
+PSU0_POUT        | 222 Watts         | ok
+PSU1_POUT        | 210 Watts         | ok
+FAN0_F_Speed     | 13284 RPM         | ok
+FAN0_R_Speed     | 11439 RPM         | ok
+FAN1_F_Speed     | 13407 RPM         | ok
+FAN1_R_Speed     | 11562 RPM         | ok
+FAN2_F_Speed     | 11808 RPM         | ok
+FAN2_R_Speed     | 10086 RPM         | ok
+FAN3_F_Speed     | 11685 RPM         | ok
+FAN3_R_Speed     | 10086 RPM         | ok
+FAN4_F_Speed     | 11685 RPM         | ok
+FAN4_R_Speed     | 9963 RPM          | ok
+FAN5_F_Speed     | 11808 RPM         | ok
+FAN5_R_Speed     | 10086 RPM         | ok
+FAN6_F_Speed     | 11685 RPM         | ok
+FAN6_R_Speed     | 10086 RPM         | ok
+FAN7_F_Speed     | 11562 RPM         | ok
+FAN7_R_Speed     | 9963 RPM          | ok
+JBOG_Inlet_Temp  | 30 degrees C      | ok
+PCIe0_Temp       | 56 degrees C      | ok
+PCIe1_Temp       | 53 degrees C      | ok
+PCIe2_Temp       | 53 degrees C      | ok
+PCIe3_Temp       | 52 degrees C      | ok
+PCIe4_Temp       | 54 degrees C      | ok
+PCIe5_Temp       | 56 degrees C      | ok
+PCIe6_Temp       | 55 degrees C      | ok
+PCIe7_Temp       | 51 degrees C      | ok
+PCIe8_Temp       | 52 degrees C      | ok
+PCIe9_Temp       | 53 degrees C      | ok
+PCIe10_Temp      | 52 degrees C      | ok
+PCIe11_Temp      | 55 degrees C      | ok
+PCIe12_Temp      | 55 degrees C      | ok
+PCIe13_Temp      | 54 degrees C      | ok
+PCIe14_Temp      | 54 degrees C      | ok
+PCIe15_Temp      | 51 degrees C      | ok
+FAN8_F_Speed     | 5358 RPM          | ok
+FAN8_R_Speed     | 4845 RPM          | ok
+FAN9_F_Speed     | 5358 RPM          | ok
+FAN9_R_Speed     | 4845 RPM          | ok
+FAN10_F_Speed    | 5358 RPM          | ok
+FAN10_R_Speed    | 4845 RPM          | ok
+FAN11_F_Speed    | 5358 RPM          | ok
+FAN11_R_Speed    | 4845 RPM          | ok
+FAN12_F_Speed    | 5358 RPM          | ok
+FAN12_R_Speed    | 4845 RPM          | ok
+PSU2_PIN         | 234 Watts         | ok
+PSU3_PIN         | 246 Watts         | ok
+PSU4_PIN         | 234 Watts         | ok
+PSU5_PIN         | 222 Watts         | ok
+PSU2_POUT        | 198 Watts         | ok
+PSU3_POUT        | 210 Watts         | ok
+PSU4_POUT        | 198 Watts         | ok
+PSU5_POUT        | 198 Watts         | ok
+Inlet_Temp       | 31 degrees C      | ok
+Outlet_Temp      | 44 degrees C      | ok
+CPU0_DTS         | 52 degrees C      | ok
+CPU1_DTS         | 52 degrees C      | ok
+CPU2_DTS         | 52 degrees C      | ok
+CPU3_DTS         | 53 degrees C      | ok
+CPU0_DDR_DIMM_T  | 45 degrees C      | ok
+CPU1_DDR_DIMM_T  | 40 degrees C      | ok
+CPU2_DDR_DIMM_T  | 40 degrees C      | ok
+CPU3_DDR_DIMM_T  | 44 degrees C      | ok
+CPU0_Vcore_T     | 47 degrees C      | ok
+CPU1_Vcore_T     | 48 degrees C      | ok
+CPU2_Vcore_T     | 48 degrees C      | ok
+CPU3_Vcore_T     | 46 degrees C      | ok
+PCH_Temp         | 48 degrees C      | ok
+OCPNIC_Temp      | 66 degrees C      | ok
+OCPNIC_OPT_T     | 51 degrees C      | ok
+PSU0_Inlet_T     | 39 degrees C      | ok
+PSU1_Inlet_T     | 40 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 435 Watts         | ok
+FAN_Power        | 22 Watts          | ok
+CPU_Power        | 250 Watts         | ok
+Memory_Power     | 88 Watts          | ok
+PSU0_PIN         | 246 Watts         | ok
+PSU1_PIN         | 234 Watts         | ok
+PSU0_POUT        | 222 Watts         | ok
+PSU1_POUT        | 210 Watts         | ok
+FAN0_F_Speed     | 11070 RPM         | ok
+FAN0_R_Speed     | 9594 RPM          | ok
+FAN1_F_Speed     | 11193 RPM         | ok
+FAN1_R_Speed     | 9594 RPM          | ok
+FAN2_F_Speed     | 11316 RPM         | ok
+FAN2_R_Speed     | 9594 RPM          | ok
+FAN3_F_Speed     | 11070 RPM         | ok
+FAN3_R_Speed     | 9594 RPM          | ok
+FAN4_F_Speed     | 11070 RPM         | ok
+FAN4_R_Speed     | 9594 RPM          | ok
+FAN5_F_Speed     | 11193 RPM         | ok
+FAN5_R_Speed     | 9594 RPM          | ok
+FAN6_F_Speed     | 11193 RPM         | ok
+FAN6_R_Speed     | 9594 RPM          | ok
+FAN7_F_Speed     | 11070 RPM         | ok
+FAN7_R_Speed     | 9594 RPM          | ok
+JBOG_Inlet_Temp  | 29 degrees C      | ok
+PCIe0_Temp       | 57 degrees C      | ok
+PCIe1_Temp       | 54 degrees C      | ok
+PCIe2_Temp       | 54 degrees C      | ok
+PCIe3_Temp       | 53 degrees C      | ok
+PCIe4_Temp       | 55 degrees C      | ok
+PCIe5_Temp       | 58 degrees C      | ok
+PCIe6_Temp       | 56 degrees C      | ok
+PCIe7_Temp       | 52 degrees C      | ok
+PCIe8_Temp       | 54 degrees C      | ok
+PCIe9_Temp       | 54 degrees C      | ok
+PCIe10_Temp      | 53 degrees C      | ok
+PCIe11_Temp      | 57 degrees C      | ok
+PCIe12_Temp      | 56 degrees C      | ok
+PCIe13_Temp      | 55 degrees C      | ok
+PCIe14_Temp      | 55 degrees C      | ok
+PCIe15_Temp      | 53 degrees C      | ok
+FAN8_F_Speed     | 5130 RPM          | ok
+FAN8_R_Speed     | 4845 RPM          | ok
+FAN9_F_Speed     | 5130 RPM          | ok
+FAN9_R_Speed     | 4845 RPM          | ok
+FAN10_F_Speed    | 5130 RPM          | ok
+FAN10_R_Speed    | 4845 RPM          | ok
+FAN11_F_Speed    | 5130 RPM          | ok
+FAN11_R_Speed    | 4845 RPM          | ok
+FAN12_F_Speed    | 5130 RPM          | ok
+FAN12_R_Speed    | 4845 RPM          | ok
+PSU2_PIN         | 234 Watts         | ok
+PSU3_PIN         | 246 Watts         | ok
+PSU4_PIN         | 234 Watts         | ok
+PSU5_PIN         | 234 Watts         | ok
+PSU2_POUT        | 198 Watts         | ok
+PSU3_POUT        | 210 Watts         | ok
+PSU4_POUT        | 198 Watts         | ok
+PSU5_POUT        | 198 Watts         | ok
+Inlet_Temp       | 30 degrees C      | ok
+Outlet_Temp      | 44 degrees C      | ok
+CPU0_DTS         | 52 degrees C      | ok
+CPU1_DTS         | 53 degrees C      | ok
+CPU2_DTS         | 52 degrees C      | ok
+CPU3_DTS         | 49 degrees C      | ok
+CPU0_DDR_DIMM_T  | 45 degrees C      | ok
+CPU1_DDR_DIMM_T  | 40 degrees C      | ok
+CPU2_DDR_DIMM_T  | 40 degrees C      | ok
+CPU3_DDR_DIMM_T  | 44 degrees C      | ok
+CPU0_Vcore_T     | 48 degrees C      | ok
+CPU1_Vcore_T     | 47 degrees C      | ok
+CPU2_Vcore_T     | 48 degrees C      | ok
+CPU3_Vcore_T     | 47 degrees C      | ok
+PCH_Temp         | 48 degrees C      | ok
+OCPNIC_Temp      | 68 degrees C      | ok
+OCPNIC_OPT_T     | 52 degrees C      | ok
+PSU0_Inlet_T     | 40 degrees C      | ok
+PSU1_Inlet_T     | 40 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 1035 Watts        | ok
+FAN_Power        | 22 Watts          | ok
+CPU_Power        | 785 Watts         | ok
+Memory_Power     | 178 Watts         | ok
+PSU0_PIN         | 654 Watts         | ok
+PSU1_PIN         | 624 Watts         | ok
+PSU0_POUT        | 618 Watts         | ok
+PSU1_POUT        | 570 Watts         | ok
+FAN0_F_Speed     | 11070 RPM         | ok
+FAN0_R_Speed     | 14637 RPM         | ok
+FAN1_F_Speed     | 17343 RPM         | ok
+FAN1_R_Speed     | 14760 RPM         | ok
+FAN2_F_Speed     | 17466 RPM         | ok
+FAN2_R_Speed     | 14883 RPM         | ok
+FAN3_F_Speed     | 17466 RPM         | ok
+FAN3_R_Speed     | 14883 RPM         | ok
+FAN4_F_Speed     | 17712 RPM         | ok
+FAN4_R_Speed     | 15252 RPM         | ok
+FAN5_F_Speed     | 27921 RPM         | ok
+FAN5_R_Speed     | 23616 RPM         | ok
+FAN6_F_Speed     | 27798 RPM         | ok
+FAN6_R_Speed     | 23247 RPM         | ok
+FAN7_F_Speed     | 27675 RPM         | ok
+FAN7_R_Speed     | 23370 RPM         | ok
+JBOG_Inlet_Temp  | 32 degrees C      | ok
+PCIe0_Temp       | 51 degrees C      | ok
+PCIe1_Temp       | 49 degrees C      | ok
+PCIe2_Temp       | 49 degrees C      | ok
+PCIe3_Temp       | 48 degrees C      | ok
+PCIe4_Temp       | 50 degrees C      | ok
+PCIe5_Temp       | 51 degrees C      | ok
+PCIe6_Temp       | 51 degrees C      | ok
+PCIe7_Temp       | 47 degrees C      | ok
+PCIe8_Temp       | 48 degrees C      | ok
+PCIe9_Temp       | 49 degrees C      | ok
+PCIe10_Temp      | 48 degrees C      | ok
+PCIe11_Temp      | 50 degrees C      | ok
+PCIe12_Temp      | 51 degrees C      | ok
+PCIe13_Temp      | 50 degrees C      | ok
+PCIe14_Temp      | 50 degrees C      | ok
+PCIe15_Temp      | 47 degrees C      | ok
+FAN8_F_Speed     | 14079 RPM         | ok
+FAN8_R_Speed     | 12540 RPM         | ok
+FAN9_F_Speed     | 14364 RPM         | ok
+FAN9_R_Speed     | 12540 RPM         | ok
+FAN10_F_Speed    | 14364 RPM         | ok
+FAN10_R_Speed    | 13851 RPM         | ok
+FAN11_F_Speed    | 14364 RPM         | ok
+FAN11_R_Speed    | 13851 RPM         | ok
+FAN12_F_Speed    | 14364 RPM         | ok
+FAN12_R_Speed    | 13851 RPM         | ok
+PSU2_PIN         | 300 Watts         | ok
+PSU3_PIN         | 324 Watts         | ok
+PSU4_PIN         | 300 Watts         | ok
+PSU5_PIN         | 300 Watts         | ok
+PSU2_POUT        | 258 Watts         | ok
+PSU3_POUT        | 276 Watts         | ok
+PSU4_POUT        | 258 Watts         | ok
+PSU5_POUT        | 246 Watts         | ok
+Inlet_Temp       | 32 degrees C      | ok
+Outlet_Temp      | 45 degrees C      | ok
+CPU0_DTS         | 13 degrees C      | ok
+CPU1_DTS         | 13 degrees C      | ok
+CPU2_DTS         | 10 degrees C      | ok
+CPU3_DTS         | 13 degrees C      | ok
+CPU0_DDR_DIMM_T  | 47 degrees C      | ok
+CPU1_DDR_DIMM_T  | 41 degrees C      | ok
+CPU2_DDR_DIMM_T  | 41 degrees C      | ok
+CPU3_DDR_DIMM_T  | 46 degrees C      | ok
+CPU0_Vcore_T     | 67 degrees C      | ok
+CPU1_Vcore_T     | 66 degrees C      | ok
+CPU2_Vcore_T     | 68 degrees C      | ok
+CPU3_Vcore_T     | 68 degrees C      | ok
+PCH_Temp         | 50 degrees C      | ok
+OCPNIC_Temp      | 60 degrees C      | ok
+OCPNIC_OPT_T     | 50 degrees C      | ok
+PSU0_Inlet_T     | 40 degrees C      | ok
+PSU1_Inlet_T     | 40 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 1800 Watts        | ok
+FAN_Power        | 320 Watts         | ok
+CPU_Power        | 1060 Watts        | ok
+Memory_Power     | 176 Watts         | ok
+PSU0_PIN         | 996 Watts         | ok
+PSU1_PIN         | 948 Watts         | ok
+PSU0_POUT        | 924 Watts         | ok
+PSU1_POUT        | 900 Watts         | ok
+FAN0_F_Speed     | 31365 RPM         | ok
+FAN0_R_Speed     | 27798 RPM         | ok
+FAN1_F_Speed     | 31365 RPM         | ok
+FAN1_R_Speed     | 27798 RPM         | ok
+FAN2_F_Speed     | 31365 RPM         | ok
+FAN2_R_Speed     | 27798 RPM         | ok
+FAN3_F_Speed     | 31365 RPM         | ok
+FAN3_R_Speed     | 27675 RPM         | ok
+FAN4_F_Speed     | 31365 RPM         | ok
+FAN4_R_Speed     | 27798 RPM         | ok
+FAN5_F_Speed     | 31365 RPM         | ok
+FAN5_R_Speed     | 27552 RPM         | ok
+FAN6_F_Speed     | 31365 RPM         | ok
+FAN6_R_Speed     | 27552 RPM         | ok
+FAN7_F_Speed     | 31365 RPM         | ok
+FAN7_R_Speed     | 27798 RPM         | ok
+JBOG_Inlet_Temp  | 32 degrees C      | ok
+PCIe0_Temp       | 48 degrees C      | ok
+PCIe1_Temp       | 45 degrees C      | ok
+PCIe2_Temp       | 45 degrees C      | ok
+PCIe3_Temp       | 45 degrees C      | ok
+PCIe4_Temp       | 46 degrees C      | ok
+PCIe5_Temp       | 47 degrees C      | ok
+PCIe6_Temp       | 47 degrees C      | ok
+PCIe7_Temp       | 45 degrees C      | ok
+PCIe8_Temp       | 45 degrees C      | ok
+PCIe9_Temp       | 47 degrees C      | ok
+PCIe10_Temp      | 46 degrees C      | ok
+PCIe11_Temp      | 47 degrees C      | ok
+PCIe12_Temp      | 47 degrees C      | ok
+PCIe13_Temp      | 47 degrees C      | ok
+PCIe14_Temp      | 46 degrees C      | ok
+PCIe15_Temp      | 45 degrees C      | ok
+FAN8_F_Speed     | 14364 RPM         | ok
+FAN8_R_Speed     | 13566 RPM         | ok
+FAN9_F_Speed     | 14364 RPM         | ok
+FAN9_R_Speed     | 13851 RPM         | ok
+FAN10_F_Speed    | 14364 RPM         | ok
+FAN10_R_Speed    | 13851 RPM         | ok
+FAN11_F_Speed    | 14364 RPM         | ok
+FAN11_R_Speed    | 13851 RPM         | ok
+FAN12_F_Speed    | 14364 RPM         | ok
+FAN12_R_Speed    | 13851 RPM         | ok
+PSU2_PIN         | 300 Watts         | ok
+PSU3_PIN         | 324 Watts         | ok
+PSU4_PIN         | 300 Watts         | ok
+PSU5_PIN         | 300 Watts         | ok
+PSU2_POUT        | 258 Watts         | ok
+PSU3_POUT        | 276 Watts         | ok
+PSU4_POUT        | 258 Watts         | ok
+PSU5_POUT        | 258 Watts         | ok
+Inlet_Temp       | 32 degrees C      | ok
+Outlet_Temp      | 46 degrees C      | ok
+CPU0_DTS         | 28 degrees C      | ok
+CPU1_DTS         | 28 degrees C      | ok
+CPU2_DTS         | 24 degrees C      | ok
+CPU3_DTS         | 29 degrees C      | ok
+CPU0_DDR_DIMM_T  | 48 degrees C      | ok
+CPU1_DDR_DIMM_T  | 42 degrees C      | ok
+CPU2_DDR_DIMM_T  | 42 degrees C      | ok
+CPU3_DDR_DIMM_T  | 46 degrees C      | ok
+CPU0_Vcore_T     | 65 degrees C      | ok
+CPU1_Vcore_T     | 63 degrees C      | ok
+CPU2_Vcore_T     | 66 degrees C      | ok
+CPU3_Vcore_T     | 66 degrees C      | ok
+PCH_Temp         | 50 degrees C      | ok
+OCPNIC_Temp      | 60 degrees C      | ok
+OCPNIC_OPT_T     | 49 degrees C      | ok
+PSU0_Inlet_T     | 40 degrees C      | ok
+PSU1_Inlet_T     | 41 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 645 Watts         | ok
+FAN_Power        | 222 Watts         | ok
+CPU_Power        | 250 Watts         | ok
+Memory_Power     | 88 Watts          | ok
+PSU0_PIN         | 354 Watts         | ok
+PSU1_PIN         | 342 Watts         | ok
+PSU0_POUT        | 330 Watts         | ok
+PSU1_POUT        | 318 Watts         | ok
+FAN0_F_Speed     | 29028 RPM         | ok
+FAN0_R_Speed     | 24846 RPM         | ok
+FAN1_F_Speed     | 29028 RPM         | ok
+FAN1_R_Speed     | 24723 RPM         | ok
+FAN2_F_Speed     | 30381 RPM         | ok
+FAN2_R_Speed     | 25953 RPM         | ok
+FAN3_F_Speed     | 30135 RPM         | ok
+FAN3_R_Speed     | 25953 RPM         | ok
+FAN4_F_Speed     | 30135 RPM         | ok
+FAN4_R_Speed     | 25953 RPM         | ok
+FAN5_F_Speed     | 30504 RPM         | ok
+FAN5_R_Speed     | 26199 RPM         | ok
+FAN6_F_Speed     | 28290 RPM         | ok
+FAN6_R_Speed     | 24108 RPM         | ok
+FAN7_F_Speed     | 28044 RPM         | ok
+FAN7_R_Speed     | 23739 RPM         | ok
+JBOG_Inlet_Temp  | 32 degrees C      | ok
+PCIe0_Temp       | 49 degrees C      | ok
+PCIe1_Temp       | 47 degrees C      | ok
+PCIe2_Temp       | 46 degrees C      | ok
+PCIe3_Temp       | 46 degrees C      | ok
+PCIe4_Temp       | 47 degrees C      | ok
+PCIe5_Temp       | 48 degrees C      | ok
+PCIe6_Temp       | 49 degrees C      | ok
+PCIe7_Temp       | 46 degrees C      | ok
+PCIe8_Temp       | 47 degrees C      | ok
+PCIe9_Temp       | 48 degrees C      | ok
+PCIe10_Temp      | 47 degrees C      | ok
+PCIe11_Temp      | 49 degrees C      | ok
+PCIe12_Temp      | 49 degrees C      | ok
+PCIe13_Temp      | 48 degrees C      | ok
+PCIe14_Temp      | 48 degrees C      | ok
+PCIe15_Temp      | 46 degrees C      | ok
+FAN8_F_Speed     | 9975 RPM          | ok
+FAN8_R_Speed     | 9291 RPM          | ok
+FAN9_F_Speed     | 10089 RPM         | ok
+FAN9_R_Speed     | 9291 RPM          | ok
+FAN10_F_Speed    | 9975 RPM          | ok
+FAN10_R_Speed    | 9234 RPM          | ok
+FAN11_F_Speed    | 7980 RPM          | ok
+FAN11_R_Speed    | 7353 RPM          | ok
+FAN12_F_Speed    | 7866 RPM          | ok
+FAN12_R_Speed    | 7638 RPM          | ok
+PSU2_PIN         | 234 Watts         | ok
+PSU3_PIN         | 258 Watts         | ok
+PSU4_PIN         | 234 Watts         | ok
+PSU5_PIN         | 234 Watts         | ok
+PSU2_POUT        | 198 Watts         | ok
+PSU3_POUT        | 210 Watts         | ok
+PSU4_POUT        | 198 Watts         | ok
+PSU5_POUT        | 198 Watts         | ok
+Inlet_Temp       | 31 degrees C      | ok
+Outlet_Temp      | 44 degrees C      | ok
+CPU0_DTS         | 49 degrees C      | ok
+CPU1_DTS         | 55 degrees C      | ok
+CPU2_DTS         | 54 degrees C      | ok
+CPU3_DTS         | 54 degrees C      | ok
+CPU0_DDR_DIMM_T  | 43 degrees C      | ok
+CPU1_DDR_DIMM_T  | 40 degrees C      | ok
+CPU2_DDR_DIMM_T  | 39 degrees C      | ok
+CPU3_DDR_DIMM_T  | 42 degrees C      | ok
+CPU0_Vcore_T     | 52 degrees C      | ok
+CPU1_Vcore_T     | 51 degrees C      | ok
+CPU2_Vcore_T     | 52 degrees C      | ok
+CPU3_Vcore_T     | 51 degrees C      | ok
+PCH_Temp         | 48 degrees C      | ok
+OCPNIC_Temp      | 60 degrees C      | ok
+OCPNIC_OPT_T     | 49 degrees C      | ok
+PSU0_Inlet_T     | 39 degrees C      | ok
+PSU1_Inlet_T     | 40 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 510 Watts         | ok
+FAN_Power        | 106 Watts         | ok
+CPU_Power        | 245 Watts         | ok
+Memory_Power     | 90 Watts          | ok
+PSU0_PIN         | 288 Watts         | ok
+PSU1_PIN         | 270 Watts         | ok
+PSU0_POUT        | 264 Watts         | ok
+PSU1_POUT        | 252 Watts         | ok
+FAN0_F_Speed     | 23124 RPM         | ok
+FAN0_R_Speed     | 19557 RPM         | ok
+FAN1_F_Speed     | 22878 RPM         | ok
+FAN1_R_Speed     | 19680 RPM         | ok
+FAN2_F_Speed     | 22509 RPM         | ok
+FAN2_R_Speed     | 19188 RPM         | ok
+FAN3_F_Speed     | 22509 RPM         | ok
+FAN3_R_Speed     | 19434 RPM         | ok
+FAN4_F_Speed     | 21894 RPM         | ok
+FAN4_R_Speed     | 18942 RPM         | ok
+FAN5_F_Speed     | 22263 RPM         | ok
+FAN5_R_Speed     | 19065 RPM         | ok
+FAN6_F_Speed     | 21279 RPM         | ok
+FAN6_R_Speed     | 18204 RPM         | ok
+FAN7_F_Speed     | 21156 RPM         | ok
+FAN7_R_Speed     | 18204 RPM         | ok
+JBOG_Inlet_Temp  | 31 degrees C      | ok
+PCIe0_Temp       | 51 degrees C      | ok
+PCIe1_Temp       | 48 degrees C      | ok
+PCIe2_Temp       | 48 degrees C      | ok
+PCIe3_Temp       | 48 degrees C      | ok
+PCIe4_Temp       | 50 degrees C      | ok
+PCIe5_Temp       | 51 degrees C      | ok
+PCIe6_Temp       | 51 degrees C      | ok
+PCIe7_Temp       | 48 degrees C      | ok
+PCIe8_Temp       | 49 degrees C      | ok
+PCIe9_Temp       | 50 degrees C      | ok
+PCIe10_Temp      | 49 degrees C      | ok
+PCIe11_Temp      | 51 degrees C      | ok
+PCIe12_Temp      | 51 degrees C      | ok
+PCIe13_Temp      | 50 degrees C      | ok
+PCIe14_Temp      | 50 degrees C      | ok
+PCIe15_Temp      | 48 degrees C      | ok
+FAN8_F_Speed     | 5985 RPM          | ok
+FAN8_R_Speed     | 5472 RPM          | ok
+FAN9_F_Speed     | 5985 RPM          | ok
+FAN9_R_Speed     | 5472 RPM          | ok
+FAN10_F_Speed    | 5814 RPM          | ok
+FAN10_R_Speed    | 5472 RPM          | ok
+FAN11_F_Speed    | 5643 RPM          | ok
+FAN11_R_Speed    | 5187 RPM          | ok
+FAN12_F_Speed    | 5643 RPM          | ok
+FAN12_R_Speed    | 5187 RPM          | ok
+PSU2_PIN         | 234 Watts         | ok
+PSU3_PIN         | 246 Watts         | ok
+PSU4_PIN         | 234 Watts         | ok
+PSU5_PIN         | 222 Watts         | ok
+PSU2_POUT        | 198 Watts         | ok
+PSU3_POUT        | 210 Watts         | ok
+PSU4_POUT        | 198 Watts         | ok
+PSU5_POUT        | 180 Watts         | ok
+Inlet_Temp       | 31 degrees C      | ok
+Outlet_Temp      | 43 degrees C      | ok
+CPU0_DTS         | 54 degrees C      | ok
+CPU1_DTS         | 55 degrees C      | ok
+CPU2_DTS         | 54 degrees C      | ok
+CPU3_DTS         | 53 degrees C      | ok
+CPU0_DDR_DIMM_T  | 44 degrees C      | ok
+CPU1_DDR_DIMM_T  | 39 degrees C      | ok
+CPU2_DDR_DIMM_T  | 39 degrees C      | ok
+CPU3_DDR_DIMM_T  | 42 degrees C      | ok
+CPU0_Vcore_T     | 49 degrees C      | ok
+CPU1_Vcore_T     | 49 degrees C      | ok
+CPU2_Vcore_T     | 49 degrees C      | ok
+CPU3_Vcore_T     | 48 degrees C      | ok
+PCH_Temp         | 48 degrees C      | ok
+OCPNIC_Temp      | 62 degrees C      | ok
+OCPNIC_OPT_T     | 49 degrees C      | ok
+PSU0_Inlet_T     | 39 degrees C      | ok
+PSU1_Inlet_T     | 40 degrees C      | ok
+DOM0_Temp        | disabled          | ns
+DOM1_Temp        | disabled          | ns
+Main_Efuse_Power | 450 Watts         | ok
+FAN_Power        | 30 Watts          | ok
+CPU_Power        | 245 Watts         | ok
+Memory_Power     | 90 Watts          | ok
+PSU0_PIN         | 246 Watts         | ok
+PSU1_PIN         | 234 Watts         | ok
+PSU0_POUT        | 228 Watts         | ok
+PSU1_POUT        | 210 Watts         | ok
+FAN0_F_Speed     | 15867 RPM         | ok
+FAN0_R_Speed     | 13407 RPM         | ok
+FAN1_F_Speed     | 15498 RPM         | ok
+FAN1_R_Speed     | 13284 RPM         | ok
+FAN2_F_Speed     | 11931 RPM         | ok
+FAN2_R_Speed     | 10209 RPM         | ok
+FAN3_F_Speed     | 11685 RPM         | ok
+FAN3_R_Speed     | 10086 RPM         | ok
+FAN4_F_Speed     | 11685 RPM         | ok
+FAN4_R_Speed     | 9963 RPM          | ok
+FAN5_F_Speed     | 11808 RPM         | ok
+FAN5_R_Speed     | 10086 RPM         | ok
+FAN6_F_Speed     | 11808 RPM         | ok
+FAN6_R_Speed     | 10086 RPM         | ok
+FAN7_F_Speed     | 11685 RPM         | ok
+FAN7_R_Speed     | 10086 RPM         | ok
+JBOG_Inlet_Temp  | 30 degrees C      | ok
+PCIe0_Temp       | 55 degrees C      | ok
+PCIe1_Temp       | 52 degrees C      | ok
+PCIe2_Temp       | 52 degrees C      | ok
+PCIe3_Temp       | 51 degrees C      | ok
+PCIe4_Temp       | 53 degrees C      | ok
+PCIe5_Temp       | 54 degrees C      | ok
+PCIe6_Temp       | 54 degrees C      | ok
+PCIe7_Temp       | 50 degrees C      | ok
+PCIe8_Temp       | 51 degrees C      | ok
+PCIe9_Temp       | 52 degrees C      | ok
+PCIe10_Temp      | 51 degrees C      | ok
+PCIe11_Temp      | 54 degrees C      | ok
+PCIe12_Temp      | 54 degrees C      | ok
+PCIe13_Temp      | 53 degrees C      | ok
+PCIe14_Temp      | 53 degrees C      | ok
+PCIe15_Temp      | 51 degrees C      | ok
+FAN8_F_Speed     | 5358 RPM          | ok
+FAN8_R_Speed     | 4845 RPM          | ok
+FAN9_F_Speed     | 5358 RPM          | ok
+FAN9_R_Speed     | 4845 RPM          | ok
+FAN10_F_Speed    | 5358 RPM          | ok
+FAN10_R_Speed    | 4845 RPM          | ok
+FAN11_F_Speed    | 5358 RPM          | ok
+FAN11_R_Speed    | 4845 RPM          | ok
+FAN12_F_Speed    | 5358 RPM          | ok
+FAN12_R_Speed    | 4845 RPM          | ok
+PSU2_PIN         | 234 Watts         | ok
+PSU3_PIN         | 246 Watts         | ok
+PSU4_PIN         | 234 Watts         | ok
+PSU5_PIN         | 222 Watts         | ok
+PSU2_POUT        | 198 Watts         | ok
+PSU3_POUT        | 210 Watts         | ok
+PSU4_POUT        | 198 Watts         | ok
+PSU5_POUT        | 180 Watts         | ok
