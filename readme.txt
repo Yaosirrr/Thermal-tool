@@ -1,4 +1,4 @@
-***This is one of the tools I developed for thermal team when I worked during the last year.
+***This is one of the tools I developed for thermal team.
 ***This tool is used for extracting specific data(such as the server's temperature and PWM speed) from a bunch of logs, and generate corresponding Microsoft Excel reports.
 
 The directories of the project are as bellow.
